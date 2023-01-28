@@ -20,6 +20,25 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 # Support
 * I will not offer support on any of these vehicles, everything on my part is in the README. If you want to change any handling files (which for some it's needed), you need to configure it yourself.
 
+# Credits
+* [Akuma Classic](https://www.gta5-mods.com/vehicles/dinka-akuma-classic-add-on-fivem) by [LaPanne Engineering](https://www.gta5-mods.com/users/LaPanne%20Engineering)
+* [Atlas](https://www.gta5-mods.com/vehicles/karin-atlas-add-on-liveries), [Dominator GTC](https://www.gta5-mods.com/vehicles/vapid-dominator-gtc-addon), [Elegant](https://www.gta5-mods.com/vehicles/willard-elegant-addon) & [EVA](https://www.gta5-mods.com/vehicles/hijak-eva-add-on-liveries) by [Dani02](https://www.gta5-mods.com/users/Dani02)
+* [Baller Raid](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) by [BullseyeSBT](https://www.gta5-mods.com/users/BullseyeSBT)
+* [Buffalo Hellfire](https://www.gta5-mods.com/vehicles/bravado-buffalo-hellfire-add-on-tuning) by [MMTGarage](https://www.gta5-mods.com/users/MMTGarage)
+* [Burrito Racing](https://www.gta5-mods.com/vehicles/declasse-burrito-racing-addon) by [calvooo](https://www.gta5-mods.com/users/calvooo)
+* [Cheetah Veloce](https://www.gta5-mods.com/vehicles/grotti-cheetah-veloce-add-on-tuning-lods-shards), [Paradox (1&2)](https://www.gta5-mods.com/vehicles/willard-paradox-add-on-tuning-lods-shards), [Hotring Weevil](https://www.gta5-mods.com/vehicles/bf-hotring-weevil), [Sheava](https://www.gta5-mods.com/vehicles/emperor-sheava-add-on-lods), [F620](https://www.gta5-mods.com/vehicles/ocelot-f620-sleeper-add-on-lods-tuning) & [Peanut](https://www.gta5-mods.com/vehicles/weeny-peanut-lods-add-on-tuning) by [Smukkeunger](https://www.gta5-mods.com/users/Smukkeunger)
+* [Clique Deluxe](https://www.gta5-mods.com/vehicles/vapid-clique-deluxe-add-on-tuning-liveries-lods) by [Skysder](https://www.gta5-mods.com/users/Skysder)
+* [Coquette D10 Widebody](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) by [LamboFreak](https://www.gta5-mods.com/users/LamboFreak)
+* [Gauntlet STX](https://www.gta5-mods.com/vehicles/bravado-gauntlet-stx) by [Algonquin Hood](https://www.gta5-mods.com/users/Algonquin%20Hood)
+* [Glendale Stretch](https://www.gta5-mods.com/vehicles/benefactor-glendale-stretch-add-on) by [TheF3nt0n](https://www.gta5-mods.com/users/TheF3nt0n)
+* [Yosemite DRT](https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom) & [Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning) by [GOM](https://www.gta5-mods.com/users/GOM)
+* [Kawaii](https://www.gta5-mods.com/vehicles/annis-kawaii-addon-replace-tuning) by [13Stewartc](https://www.gta5-mods.com/users/13Stewartc]
+* [Panorama](https://www.gta5-mods.com/vehicles/classique-panorama-pack-add-on-tuning-liveries-lods) & [Stardust](https://www.gta5-mods.com/vehicles/pfister-stardust-add-on-tuning) by [johndoe968](https://www.gta5-mods.com/users/johndoe968)
+* [Roxanne](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) by [TGI_J](https://www.gta5-mods.com/users/TGIJ)
+* [Streiter](https://www.gta5-mods.com/vehicles/benefactor-streiter-add-on) by [fummy](https://www.gta5-mods.com/users/fummy)
+* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
+* [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
+
 # Adding cars to dealerships
 * Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 30 cars, how bad could it be?)
 ```lua
