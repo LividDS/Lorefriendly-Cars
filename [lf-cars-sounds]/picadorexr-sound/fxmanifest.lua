@@ -8,6 +8,6 @@ files {
   'sfx/**/*.awc'
 }
 
-data_file 'AUDIO_GAMEDATA' 'audioconfig/picadorext_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/picadorext_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_picadorext'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/picadorexr_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/picadorexr_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_picadorexr'
