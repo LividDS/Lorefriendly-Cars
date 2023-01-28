@@ -96,7 +96,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `coquette4c`,
 		['shop'] = 'luxury',
     },
-	['dominatorgtc'] = {
+    ['dominatorgtc'] = {
 		['name'] = 'Dominator GTC',
 		['brand'] = 'Vapid',
 		['model'] = 'dominatorgtc',
@@ -141,7 +141,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `gauntletstx`,
 		['shop'] = 'pdm',
     },
-	['glendalelimo'] = {
+    ['glendalelimo'] = {
 		['name'] = 'Glendale Stretch',
 		['brand'] = 'Karin',
 		['model'] = 'glendalelimo',
@@ -195,7 +195,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `panorama`,
 		['shop'] = 'pdm',
     },
-	['paradox'] = {
+    ['paradox'] = {
 		['name'] = 'Paradox',
 		['brand'] = 'Willard',
 		['model'] = 'paradox',
@@ -222,7 +222,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `peanut`,
 		['shop'] = 'pdm',
     },
-	['roxanne'] = {
+    ['roxanne'] = {
 		['name'] = 'Roxanne',
 		['brand'] = 'Annis',
 		['model'] = 'roxanne',
@@ -249,7 +249,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `stardust`,
 		['shop'] = 'luxury',
     },
-	['streiter2'] = {
+    ['streiter2'] = {
 		['name'] = 'Streiter',
 		['brand'] = 'Benefactor',
 		['model'] = 'streiter2',
@@ -258,7 +258,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `streiter2`,
 		['shop'] = 'pdm',
     },
-	['sunrise1'] = {
+    ['sunrise1'] = {
 		['name'] = 'Sunrise R',
 		['brand'] = 'Maibatsu',
 		['model'] = 'sunrise1',
@@ -267,7 +267,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `sunrise1`,
 		['shop'] = 'luxury',
     },
-	['vigout'] = {
+    ['vigout'] = {
 		['name'] = 'Vigero Outlaw',
 		['brand'] = 'Declasse',
 		['model'] = 'vigout',
