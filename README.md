@@ -304,6 +304,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `stardust`,
 		['shop'] = 'luxury',
     },
+    ['stratumc'] = {
+		['name'] = 'Stratum',
+		['brand'] = 'Zircoflow',
+		['model'] = 'stratumc',
+		['price'] = 1,
+		['category'] = 'coupes',
+		['hash'] = `stratumc`,
+		['shop'] = 'pdm',
+    },
     ['streiter2'] = {
 		['name'] = 'Streiter',
 		['brand'] = 'Benefactor',
