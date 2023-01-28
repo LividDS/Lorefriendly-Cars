@@ -133,6 +133,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `dominatorgtc`,
 		['shop'] = 'pdm',
     },
+    ['dukes4'] = {
+		['name'] = 'Dukes Cobra',
+		['brand'] = 'Imponte',
+		['model'] = 'dukes4',
+		['price'] = 1,
+		['category'] = 'muscle',
+		['hash'] = `dukes4`,
+		['shop'] = 'pdm',
+    },
     ['elegant'] = {
 		['name'] = 'Elegant',
 		['brand'] = 'Willard',
