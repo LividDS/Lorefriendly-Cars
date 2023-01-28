@@ -1,0 +1,2871 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>800_nspeedo_modkit</kitName>
+      <id value="800"/>
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>nspeedo_splitter_1</modelName>
+          <modShopLabel>NSPEEDO_SPL_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1</modelName>
+          <modShopLabel>NSPEEDO_BB_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_1EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_1</Item>
+            <Item>nspeedo_bullbar_1_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1_ext2</modelName>
+          <modShopLabel>NSPEEDO_BB_1EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_1</Item>
+            <Item>nspeedo_bullbar_1_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1_ext3</modelName>
+          <modShopLabel>NSPEEDO_BB_1EXT3</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_1</Item>
+            <Item>nspeedo_bullbar_1_ex1</Item>
+            <Item>nspeedo_bullbar_1_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_2</modelName>
+          <modShopLabel>NSPEEDO_BB_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_2_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_2EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_2</Item>
+            <Item>nspeedo_bullbar_2_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3</modelName>
+          <modShopLabel>NSPEEDO_BB_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_3EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_3</Item>
+            <Item>nspeedo_bullbar_3_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3_ext2</modelName>
+          <modShopLabel>NSPEEDO_BB_3EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_3</Item>
+            <Item>nspeedo_bullbar_3_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3_ext3</modelName>
+          <modShopLabel>NSPEEDO_BB_3EXT3</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_3</Item>
+            <Item>nspeedo_bullbar_3_ex1</Item>
+            <Item>nspeedo_bullbar_3_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_4</modelName>
+          <modShopLabel>NSPEEDO_BB_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_4_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_4EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_4</Item>
+            <Item>nspeedo_bullbar_4_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5</modelName>
+          <modShopLabel>NSPEEDO_BB_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_5EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_5</Item>
+            <Item>nspeedo_bullbar_5_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5_ext2</modelName>
+          <modShopLabel>NSPEEDO_BB_5EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_5</Item>
+            <Item>nspeedo_bullbar_5_ex1</Item>
+            <Item>nspeedo_bullbar_5_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6</modelName>
+          <modShopLabel>NSPEEDO_BB_6</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6a_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_6AEXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_6</Item>
+            <Item>nspeedo_bullbar_6_ex1</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6a_ext2</modelName>
+          <modShopLabel>NSPEEDO_BB_6AEXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_6</Item>
+            <Item>nspeedo_bullbar_6_ex2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6b</modelName>
+          <modShopLabel>NSPEEDO_BB_6B</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6b_ext1</modelName>
+          <modShopLabel>NSPEEDO_BB_6BEXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_6b</Item>
+            <Item>nspeedo_bullbar_6_ex1</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6b_ext2</modelName>
+          <modShopLabel>NSPEEDO_BB_6BEXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_bullbar_6b</Item>
+            <Item>nspeedo_bullbar_6_ex2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_p</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_1</modelName>
+          <modShopLabel>NSPEEDO_BUMPR_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_2</modelName>
+          <modShopLabel>NSPEEDO_BUMPR_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_3</modelName>
+          <modShopLabel>NSPEEDO_BUMPR_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_4</modelName>
+          <modShopLabel>NSPEEDO_BUMPR_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_NB</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_1</modelName>
+          <modShopLabel>NSPEEDO_GRL_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_1nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_1NB</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_1ch</modelName>
+          <modShopLabel>NSPEEDO_GRL_1CH</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_1chnb</modelName>
+          <modShopLabel>NSPEEDO_GRL_1CHNB</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_2</modelName>
+          <modShopLabel>NSPEEDO_GRL_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_2nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_2NB</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_2ch</modelName>
+          <modShopLabel>NSPEEDO_GRL_2CH</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_2chnb</modelName>
+          <modShopLabel>NSPEEDO_GRL_2CHNB</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_3</modelName>
+          <modShopLabel>NSPEEDO_GRL_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_3nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_3NB</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_3ch</modelName>
+          <modShopLabel>NSPEEDO_GRL_3CH</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_3chnb</modelName>
+          <modShopLabel>NSPEEDO_GRL_3CHNB</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_4</modelName>
+          <modShopLabel>NSPEEDO_GRL_4</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_4nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_4NB</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5</modelName>
+          <modShopLabel>NSPEEDO_GRL_5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5nb</modelName>
+          <modShopLabel>NSPEEDO_GRL_5NB</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5ng</modelName>
+          <modShopLabel>NSPEEDO_GRL_5NG</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5ch</modelName>
+          <modShopLabel>NSPEEDO_GRL_5CH</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5chnb</modelName>
+          <modShopLabel>NSPEEDO_GRL_5CHNB</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_5chng</modelName>
+          <modShopLabel>NSPEEDO_GRL_5CHNG</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_grill_ch</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_sidestep_1</modelName>
+          <modShopLabel>NSPEEDO_SSTEP1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_sidestep_2</modelName>
+          <modShopLabel>NSPEEDO_SSTEP2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_sidestep_3</modelName>
+          <modShopLabel>NSPEEDO_SSTEP3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_sidestep_4</modelName>
+          <modShopLabel>NSPEEDO_SSTEP4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_sidestep_5</modelName>
+          <modShopLabel>NSPEEDO_SSTEP5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1</modelName>
+          <modShopLabel>NSPEEDO_RRACK_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1_ext1</modelName>
+          <modShopLabel>NSPEEDO_RRACK_1EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_1</Item>
+            <Item>nspeedo_roofrack_1_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1_ext2</modelName>
+          <modShopLabel>NSPEEDO_RRACK_1EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_1</Item>
+            <Item>nspeedo_roofrack_1_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_2</modelName>
+          <modShopLabel>NSPEEDO_RRACK_2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_2_ext1</modelName>
+          <modShopLabel>NSPEEDO_RRACK_2EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_2</Item>
+            <Item>nspeedo_roofrack_2_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3</modelName>
+          <modShopLabel>NSPEEDO_RRACK_3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3_ext1</modelName>
+          <modShopLabel>NSPEEDO_RRACK_3EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_3</Item>
+            <Item>nspeedo_roofrack_3_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3_ext2</modelName>
+          <modShopLabel>NSPEEDO_RRACK_3EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_3</Item>
+            <Item>nspeedo_roofrack_3_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext1</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT1</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext2</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT2</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext3</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT3</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext4</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT4</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext5</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT5</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext5ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT5LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext6</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT6</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext6ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT6LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext7</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT7</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext8</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT8</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext8ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT8LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext9</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT9</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext9ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT9LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext10</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT10</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext11</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT11</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext11ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT11LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext12</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT12</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext12ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT12LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex2</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext13</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT13</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext14</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT14</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext14ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT14LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex5</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext15</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT15</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ext15ld</modelName>
+          <modShopLabel>NSPEEDO_RRACK_4EXT15LD</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_roofrack_4</Item>
+            <Item>nspeedo_roofrack_4_ex1</Item>
+            <Item>nspeedo_roofrack_4_ex3</Item>
+            <Item>nspeedo_roofrack_4_ex4</Item>
+            <Item>nspeedo_roofrack_4_ex6</Item>
+          </linkedModels>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_ladder_1</modelName>
+          <modShopLabel>NSPEEDO_LDR_1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_SPOILER</type>
+          <bone>door_dside_r</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_rpanels</modelName>
+          <modShopLabel>NSPEEDO_PNL</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_rpanels_1</Item>
+            <Item>nspeedo_rpanels_2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>window_lr</Item>
+            <Item>window_rr</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_ladpnl</modelName>
+          <modShopLabel>NSPEEDO_LADPNL</modShopLabel>
+          <linkedModels>
+            <Item>nspeedo_ladder_1</Item>
+            <Item>nspeedo_rpanels_1</Item>
+            <Item>nspeedo_rpanels_2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>window_lr</Item>
+            <Item>window_rr</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+          <weaponSlot value="-1"/>
+          <weaponSlotSecondary value="-1"/>
+          <disableProjectileDriveby value="false"/>
+          <disableDriveby value="false"/>
+          <disableDrivebySeat value="-1"/>
+          <disableDrivebySeatSecondary value="-1"/>
+        </Item>
+      </visibleMods>
+      <linkMods>
+        <Item>
+          <modelName>nspeedo_splitter_1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_1_ex2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_2_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_3_ex2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_4</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_4_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_5_ex2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6_ex1</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6_ex2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bullbar_6b</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_grill_ch</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_1</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_2</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_3</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_bumpr_4</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1_ex1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_1_ex2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_2_ex1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3_ex1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_3_ex2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex4</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex5</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_roofrack_4_ex6</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_ladder_1</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_rpanels_1</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+        <Item>
+          <modelName>nspeedo_rpanels_2</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1.00000000"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="5"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="15"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+        <Item>
+          <slot>VMT_BUMPER_R</slot>
+          <name>VMT_NSPED_RSTEP</name>
+        </Item>
+        <Item>
+          <slot>VMT_ROOF</slot>
+          <name>VMT_NSPED_RRACK</name>
+        </Item>
+        <Item>
+          <slot>VMT_SKIRT</slot>
+          <name>VMT_NSPED_SSTEP</name>
+        </Item>
+        <Item>
+          <slot>VMT_SPOILER</slot>
+          <name>VMT_NSPED_LDRPNL</name>
+        </Item>
+      </slotNames>
+      <liveryNames/>
+      <livery2Names/>
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
