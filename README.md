@@ -29,7 +29,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Cheetah Veloce](https://www.gta5-mods.com/vehicles/grotti-cheetah-veloce-add-on-tuning-lods-shards), [Paradox (1&2)](https://www.gta5-mods.com/vehicles/willard-paradox-add-on-tuning-lods-shards), [Hotring Weevil](https://www.gta5-mods.com/vehicles/bf-hotring-weevil), [Sheava](https://www.gta5-mods.com/vehicles/emperor-sheava-add-on-lods), [F620](https://www.gta5-mods.com/vehicles/ocelot-f620-sleeper-add-on-lods-tuning) & [Peanut](https://www.gta5-mods.com/vehicles/weeny-peanut-lods-add-on-tuning) by [Smukkeunger](https://www.gta5-mods.com/users/Smukkeunger)
 * [Clique Deluxe](https://www.gta5-mods.com/vehicles/vapid-clique-deluxe-add-on-tuning-liveries-lods) by [Skysder](https://www.gta5-mods.com/users/Skysder)
 * [Coquette D10 Widebody](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) by [LamboFreak](https://www.gta5-mods.com/users/LamboFreak)
-* [Gauntlet STX](https://www.gta5-mods.com/vehicles/bravado-gauntlet-stx) by [Algonquin Hood](https://www.gta5-mods.com/users/Algonquin%20Hood)
+* [Gauntlet STX](https://www.gta5-mods.com/vehicles/bravado-gauntlet-stx) & [Dukes Cobra](https://www.gta5-mods.com/vehicles/imponte-dukes-cobra) by [Algonquin Hood](https://www.gta5-mods.com/users/Algonquin%20Hood)
 * [Glendale Stretch](https://www.gta5-mods.com/vehicles/benefactor-glendale-stretch-add-on) by [TheF3nt0n](https://www.gta5-mods.com/users/TheF3nt0n)
 * [Yosemite DRT](https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom) & [Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning) by [GOM](https://www.gta5-mods.com/users/GOM)
 * [Kawaii](https://www.gta5-mods.com/vehicles/annis-kawaii-addon-replace-tuning) by [13Stewartc](https://www.gta5-mods.com/users/13Stewartc]
@@ -40,7 +40,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 
 # Adding cars to dealerships
-* Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 30 cars, how bad could it be?)
+* Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 32 cars, how bad could it be?)
 ```lua
 -- Lorefriendly-Cars
     ['akumac'] = {
