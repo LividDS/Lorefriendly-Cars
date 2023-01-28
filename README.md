@@ -23,7 +23,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 # Credits
 * [Akuma Classic](https://www.gta5-mods.com/vehicles/dinka-akuma-classic-add-on-fivem) by [LaPanne Engineering](https://www.gta5-mods.com/users/LaPanne%20Engineering)
 * [Atlas](https://www.gta5-mods.com/vehicles/karin-atlas-add-on-liveries), [Dominator GTC](https://www.gta5-mods.com/vehicles/vapid-dominator-gtc-addon), [Elegant](https://www.gta5-mods.com/vehicles/willard-elegant-addon) & [EVA](https://www.gta5-mods.com/vehicles/hijak-eva-add-on-liveries) by [Dani02](https://www.gta5-mods.com/users/Dani02)
-* [Baller Raid](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) by [BullseyeSBT](https://www.gta5-mods.com/users/BullseyeSBT)
+* [Baller Raid](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) & [Squaddie Raid](https://www.gta5-mods.com/vehicles/mammoth-squaddie-raid-addon-liveries-lods-l0-l1-l2-l3-l4) by [BullseyeSBT](https://www.gta5-mods.com/users/BullseyeSBT)
 * [Buffalo Hellfire](https://www.gta5-mods.com/vehicles/bravado-buffalo-hellfire-add-on-tuning) by [MMTGarage](https://www.gta5-mods.com/users/MMTGarage)
 * [Burrito Racing](https://www.gta5-mods.com/vehicles/declasse-burrito-racing-addon) by [calvooo](https://www.gta5-mods.com/users/calvooo)
 * [Cheetah Veloce](https://www.gta5-mods.com/vehicles/grotti-cheetah-veloce-add-on-tuning-lods-shards), [Paradox (1&2)](https://www.gta5-mods.com/vehicles/willard-paradox-add-on-tuning-lods-shards), [Hotring Weevil](https://www.gta5-mods.com/vehicles/bf-hotring-weevil), [Sheava](https://www.gta5-mods.com/vehicles/emperor-sheava-add-on-lods), [F620](https://www.gta5-mods.com/vehicles/ocelot-f620-sleeper-add-on-lods-tuning) & [Peanut](https://www.gta5-mods.com/vehicles/weeny-peanut-lods-add-on-tuning) by [Smukkeunger](https://www.gta5-mods.com/users/Smukkeunger)
@@ -66,8 +66,17 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['brand'] = 'Gallivanter',
 		['model'] = 'baller7r',
 		['price'] = 1,
-		['category'] = 'suvs',
+		['category'] = 'offroad',
 		['hash'] = `baller7r`,
+		['shop'] = 'pdm',
+    },
+    ['squaddier'] = {
+		['name'] = 'Baller Raid',
+		['brand'] = 'Gallivanter',
+		['model'] = 'squaddier',
+		['price'] = 1,
+		['category'] = 'offroad',
+		['hash'] = `squaddier`,
 		['shop'] = 'pdm',
     },
     ['buffalo4h'] = {
