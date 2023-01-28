@@ -1,6 +1,6 @@
 # Lore friendly Cars
 A collection of high rated lore friendly vehicles from GTA5-mods. This pack contains add-on, replace and tuning cars and sounds.
-* All cars except the `zion4` run at <40 MiB of physical memory. `zion4` runs at 49 MiB of physical memory.
+* All cars except the `zion4` and `nspeedo` run at <40 MiB of physical memory. `zion4` runs at 49 MiB of physical memory, `nspeedo` at 112 MiB of physical memory.
 * Handling files are mostly lore friendly. If you do anything with the files and want to make a PR, feel free!
 * Quality models and sounds. 
 
