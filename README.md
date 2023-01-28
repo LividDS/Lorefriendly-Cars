@@ -24,7 +24,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 30 cars, how bad could it be?)
 ```lua
 -- Lorefriendly-Cars
-	['akumac'] = {
+    ['akumac'] = {
 		['name'] = 'Akuma Classic',
 		['brand'] = 'Dinka',
 		['model'] = 'akumac',
