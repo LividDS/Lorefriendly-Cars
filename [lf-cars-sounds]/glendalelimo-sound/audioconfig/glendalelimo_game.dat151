@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat151>
+ <Version value="35636732" />
+ <Items>
+  <Item type="Vehicle" ntOffset="135">
+   <Name>glendalelimo</Name>
+   <Flags value="0x80004A20" />
+   <Engine>glendale_engine</Engine>
+   <EngineGranular>glendale_granular_engine</EngineGranular>
+   <Horns>hash_A4ACD2B1</Horns>
+   <DoorOpen>hash_A83F5613</DoorOpen>
+   <DoorClose>hash_7134E777</DoorClose>
+   <TrunkOpen>hash_770709F0</TrunkOpen>
+   <TrunkClose>hash_879C27F3</TrunkClose>
+   <Unk08>null_sound</Unk08>
+   <Unk09 value="1" />
+   <SuspensionUp>hash_7CEDC837</SuspensionUp>
+   <SuspensionDown>hash_4AEF38F3</SuspensionDown>
+   <SuspensionUpFrequency value="0.4" />
+   <SuspensionDownFrequency value="1" />
+   <Collision>hash_00C2FB47</Collision>
+   <Unk15 value="0" />
+   <Unk16 value="0" />
+   <Unk17 value="0" />
+   <ScannerParams>glendalelimo_scanner_params</ScannerParams>
+   <JumpLandIntact>hash_A5EB71C0</JumpLandIntact>
+   <JumpLandLoose>hash_1AF1FCAC</JumpLandLoose>
+   <Unk21 value="31" />
+   <Unk22 value="36" />
+   <RadioFlags value="0x0D010002" />
+   <IndicatorOn>null_sound</IndicatorOn>
+   <IndicatorOff>null_sound</IndicatorOff>
+   <Handbrake>hash_F2B35109</Handbrake>
+   <Unk27 value="0" />
+   <Unk28 value="3" />
+   <ParkingTones>hash_674E1F4D</ParkingTones>
+   <Unk29>hash_55FC0070</Unk29>
+   <Unk30>hash_795E90E6</Unk30>
+   <Unk31>hash_795E90E6</Unk31>
+   <Fire>hash_2FF627AC</Fire>
+   <StartupSequence>hash_B807DF3E</StartupSequence>
+   <Unk34>null_sound</Unk34>
+   <Unk35>hash_F52E6D86</Unk35>
+   <Unk36>hash_F52E6D86</Unk36>
+   <Unk37 value="6" />
+   <Unk38 value="3" />
+   <Unk39 />
+   <Unk40 value="0" />
+   <Sirens />
+   <Unk42 value="0" />
+   <Unk43 value="0" />
+   <Unk44 value="0" />
+   <Unk45>hash_0C3F6AD5</Unk45>
+   <Unk46>hash_359E05CB</Unk46>
+   <ForkSounds />
+   <TurretSounds />
+   <Unk49 value="3" />
+   <ScoopSounds />
+   <TowArmSounds />
+   <Unk52 value="0" />
+   <ElectricEngine />
+   <Unk54 value="0" />
+   <ReverseWarning>null_sound</ReverseWarning>
+   <EngineHealth value="3" />
+   <VehicleMaster>null_sound</VehicleMaster>
+   <ShutdownBeep>null_sound</ShutdownBeep>
+   <Unk59 value="5" />
+   <Unk60 value="0" />
+   <Unk61 value="7" />
+   <Unk62 value="300" />
+   <Unk63>null_sound</Unk63>
+   <Unk64 value="0" />
+   <Unk65 value="0" />
+   <Unk66 value="0" />
+   <ConvertibleRoof />
+   <Unk68>null_sound</Unk68>
+   <InteriorTones />
+   <Unk70 value="0" />
+   <Unk71>null_sound</Unk71>
+   <Unk72>null_sound</Unk72>
+  </Item>
+  <Item type="VehicleScannerParams" ntOffset="144">
+   <Name>glendalelimo_scanner_params</Name>
+   <Flags value="0xAAAAAAA8" />
+   <Params>
+    <Item>
+     <Manufacturer>hash_B488A25E</Manufacturer>
+     <Model>hash_2EB50B17</Model>
+     <Category>hash_2EB50B17</Category>
+     <ColorOverride>null_sound</ColorOverride>
+    </Item>
+   </Params>
+  </Item>
+ </Items>
+</Dat151>
