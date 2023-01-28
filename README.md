@@ -294,5 +294,4 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `zion4`,
 		['shop'] = 'luxury',
     },
-    ```
     
