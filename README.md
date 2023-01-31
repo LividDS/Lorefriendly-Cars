@@ -28,7 +28,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Burrito Racing](https://www.gta5-mods.com/vehicles/declasse-burrito-racing-addon) by [calvooo](https://www.gta5-mods.com/users/calvooo)
 * [Cheetah Veloce](https://www.gta5-mods.com/vehicles/grotti-cheetah-veloce-add-on-tuning-lods-shards), [Paradox (1&2)](https://www.gta5-mods.com/vehicles/willard-paradox-add-on-tuning-lods-shards), [Hotring Weevil](https://www.gta5-mods.com/vehicles/bf-hotring-weevil), [Sheava](https://www.gta5-mods.com/vehicles/emperor-sheava-add-on-lods), [F620](https://www.gta5-mods.com/vehicles/ocelot-f620-sleeper-add-on-lods-tuning) & [Peanut](https://www.gta5-mods.com/vehicles/weeny-peanut-lods-add-on-tuning) by [Smukkeunger](https://www.gta5-mods.com/users/Smukkeunger)
 * [Clique Deluxe](https://www.gta5-mods.com/vehicles/vapid-clique-deluxe-add-on-tuning-liveries-lods) by [Skysder](https://www.gta5-mods.com/users/Skysder)
-* [Coquette D10 Widebody](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) & [Stratum](https://www.gta5-mods.com/vehicles/zircoflow-stratum) by [LamboFreak](https://www.gta5-mods.com/users/LamboFreak)
+* [Coquette D10 Widebody](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) by [LamboFreak](https://www.gta5-mods.com/users/LamboFreak)
 * [Gauntlet STX](https://www.gta5-mods.com/vehicles/bravado-gauntlet-stx), [Blazer Recon ATV](https://www.gta5-mods.com/vehicles/nagasaki-blazer-recon-atv-add-on-replace-liveries-template) & [Dukes Cobra](https://www.gta5-mods.com/vehicles/imponte-dukes-cobra) by [Algonquin Hood](https://www.gta5-mods.com/users/Algonquin%20Hood)
 * [Glendale Stretch](https://www.gta5-mods.com/vehicles/benefactor-glendale-stretch-add-on), [Benson](https://www.gta5-mods.com/vehicles/vapid-benson-mapped-add-on-replace) & [Speedo Express](https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries) by [TheF3nt0n](https://www.gta5-mods.com/users/TheF3nt0n)
 * [Yosemite DRT](https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom) & [Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning) by [GOM](https://www.gta5-mods.com/users/GOM)
@@ -36,7 +36,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Panorama](https://www.gta5-mods.com/vehicles/classique-panorama-pack-add-on-tuning-liveries-lods) & [Stardust](https://www.gta5-mods.com/vehicles/pfister-stardust-add-on-tuning) by [johndoe968](https://www.gta5-mods.com/users/johndoe968)
 * [Roxanne](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) by [TGI_J](https://www.gta5-mods.com/users/TGIJ)
 * [Streiter](https://www.gta5-mods.com/vehicles/benefactor-streiter-add-on) by [fummy](https://www.gta5-mods.com/users/fummy)
-* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning), [Spritzer](https://www.gta5-mods.com/vehicles/benefactor-spritzer-str-add-on-tuning), [Gauntlet Classic](https://www.gta5-mods.com/vehicles/bravado-gauntlet-classic-add-on-liveries-template/download/67645), [Dominator Classic](https://www.gta5-mods.com/vehicles/vapid-dominator-classic/download/29353) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
+* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning), [Spritzer](https://www.gta5-mods.com/vehicles/benefactor-spritzer-str-add-on-tuning), [Gauntlet Classic](https://www.gta5-mods.com/vehicles/bravado-gauntlet-classic-add-on-liveries-template/download/67645), [Dominator Classic](https://www.gta5-mods.com/vehicles/vapid-dominator-classic/download/29353), [Meteor](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on/download/72677), [Euros](https://www.gta5-mods.com/vehicles/annis-euros-add-on-tuning-liveries/download/80965), [Sentinel SG4](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-sg4-add-on-liveries) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 * [Executioner](https://www.gta5-mods.com/vehicles/vapid-executioner-add-on) by [Carrythxd](https://www.gta5-mods.com/users/Carrythxd)
 
@@ -179,6 +179,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `elegant`,
 		['shop'] = 'pdm',
     },
+    ['euros'] = {
+		['name'] = 'Euros',
+		['brand'] = 'Annis',
+		['model'] = 'euros',
+		['price'] = 1,
+		['category'] = 'sports',
+		['hash'] = `euros`,
+		['shop'] = 'luxury',
+    },
     ['eva'] = {
 		['name'] = 'EVA',
 		['brand'] = 'Hijak',
@@ -261,6 +270,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `italigts`,
 		['shop'] = 'luxury',
     },
+    ['meteor'] = {
+		['name'] = 'Meteor',
+		['brand'] = 'Pfister',
+		['model'] = 'meteor',
+		['price'] = 1,
+		['category'] = 'sports',
+		['hash'] = `meteor`,
+		['shop'] = 'luxury',
+    },
     ['nspeedo'] = {
 		['name'] = 'Speedo Express',
 		['brand'] = 'Vapid',
@@ -332,6 +350,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['category'] = 'tuner',
 		['hash'] = `roxanne`,
 		['shop'] = 'luxury',
+    },
+    ['sentinelsg4'] = {
+		['name'] = 'Sentinel SG4',
+		['brand'] = 'Übermacht',
+		['model'] = 'sentinelsg4',
+		['price'] = 1,
+		['category'] = 'coupes',
+		['hash'] = `sentinelsg4`,
+		['shop'] = 'pdm',
     },
     ['sheavas'] = {
 		['name'] = 'Sheava',
