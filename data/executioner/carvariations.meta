@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>  
+    <Item>
+      <modelName>executioner</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="8" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="7" />
+            <Item value="7" />
+            <Item value="7" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="8" />
+            <Item value="8" />
+            <Item value="8" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="1" />
+            <Item value="1" />
+            <Item value="1" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="111" />
+            <Item value="111" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="27" />
+            <Item value="27" />
+            <Item value="28" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="49" />
+            <Item value="49" />
+            <Item value="49" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="68" />
+            <Item value="68" />
+            <Item value="68" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="64" />
+            <Item value="64" />
+            <Item value="64" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="34" />
+            <Item value="48" />
+            <Item value="45" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="50" />
+            <Item value="50" />
+            <Item value="52" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="51" />
+            <Item value="51" />
+            <Item value="59" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="63" />
+            <Item value="63" />
+            <Item value="63" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="99" />
+            <Item value="99" />
+            <Item value="99" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="95" />
+            <Item value="95" />
+            <Item value="95" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="54" />
+            <Item value="54" />
+            <Item value="54" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="14" />
+            <Item value="14" />
+            <Item value="14" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="51" />
+            <Item value="51" />
+            <Item value="51" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="31" />
+            <Item value="31" />
+            <Item value="31" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="66" />
+            <Item value="66" />
+            <Item value="66" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="40" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="60" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
