@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>zr380c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            32
+            32
+            30
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            64
+            111
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            8
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            0
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            0
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            91
+            91
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145
+            145
+            145
+            0
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            38
+            38
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            89
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27
+            27
+            30
+            111
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      <Item>888_zr380c_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>zr380s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            10
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            8
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            6
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            5
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            6
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            9
+            9
+            8
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            89
+            89
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            30
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            64
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            38
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            96
+            96
+            96
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            32
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54
+            54
+            54
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            69
+            69
+            70
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            93
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            37
+            37
+            37
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            35
+            35
+            35
+            156
+			8
+			111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      <Item>889_zr380s_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

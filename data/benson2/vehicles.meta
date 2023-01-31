@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>benson2</modelName>
+      <txdName>benson2</txdName>
+      <handlingId>BENSON</handlingId>
+      <gameName>BENSON</gameName>
+      <vehicleMakeName>VAPID</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>BENSON</audioNameHash>
+      <layout>LAYOUT_VAN_MULE</layout>
+      <coverBoundOffsets>BENSON_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_TRUCK</explosionInfo>
+      <scenarioLayout />
+      <cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+      <aimCameraName>BOX_VEHICLE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_LOW</bonnetCameraName>
+      <povCameraName>DEFAULT_POV_CAMERA_NO_REVERSE_LOOKAROUND_LOW</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.000000" y="-0.040000" z="0.000000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="-0.028000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.068000" y="-0.063000" z="-0.025000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.030000" z="-0.025000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonMobilePhoneOffset x="0.135000" y="0.205000" z="0.480000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.465000" />
+      <PovCameraOffset x="0.000000" y="-0.100000" z="0.560000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.120000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.120000" />
+      <vfxInfoName>VFXVEHICLEINFO_TRUCK_HIDDEN_EXHAUST</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.294400" />
+      <wheelScaleRear value="0.294400" />
+      <dirtLevelMin value="0.300000" />
+      <dirtLevelMax value="1.000000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="1.000000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="1.000000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        20.000000	
+        90.000000	
+        130.000000	
+        260.000000	
+        750.000000	
+        750.000000
+      </lodDistances>
+      <minSeatHeight value="0.978" />
+      <identicalModelSpawnDistance value="50" />
+      <maxNumOfSameColor value="3" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="1.000000" />
+      <frequency value="10" />
+      <swankness>SWANKNESS_1</swankness>
+      <maxNum value="5" />
+      <flags>FLAG_BIG FLAG_NO_BOOT FLAG_AVOID_TURNS FLAG_HAS_LIVERY FLAG_DELIVERY FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_EXTRAS_SCRIPT FLAG_PEDS_CAN_STAND_ON_TOP FLAG_IS_BULKY FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO FLAG_INTERIOR_BLOCKED_BY_BOOT FLAG_HAS_INTERIOR_EXTRAS FLAG_IGNORE_RWINDOW_COLLISION</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_PLATES</plateType>
+      <dashboardType>VDT_TRUCKDIGI</dashboardType>
+      <vehicleClass>VC_COMMERCIAL</vehicleClass>
+      <wheelType>VWT_SPORT</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers>
+        <Item>
+          <driverName>S_M_M_Trucker_01</driverName>
+          <npcName />
+        </Item>
+        <Item>
+          <driverName>S_M_M_Gardener_01</driverName>
+          <npcName />
+        </Item>
+      </drivers>
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed>
+        <Item>VEH_EXT_BOOT</Item>
+        <Item>VEH_EXT_BONNET</Item>
+      </doorsWithCollisionWhenClosed>
+      <driveableDoors>
+        <Item>VEH_EXT_BOOT</Item>
+      </driveableDoors>
+      <bumpersNeedToCollideWithMap value="false" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_WIDE_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_WIDE_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet>Truck</NmBraceOverrideSet>
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+      <firstPersonDrivebyData>
+        <Item>VAN_BENSON_FRONT_LEFT</Item>
+        <Item>VAN_BENSON_FRONT_RIGHT</Item>
+      </firstPersonDrivebyData>
+	  <numSeatsOverride value="2" />
+    </Item>
+  </InitDatas>
+  <txdRelationships>
+    <Item>
+      <parent>vehshare_truck</parent>
+      <child>benson2</child>
+    </Item>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>
