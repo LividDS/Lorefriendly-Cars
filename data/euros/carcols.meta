@@ -1,0 +1,2317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>
+      <kitName>798_euros_modkit</kitName>
+      <id value="798"/>
+      <kitType>MKT_SPORT</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>euros_livery1</modelName>
+          <modShopLabel>EUROS_LIV1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery2</modelName>
+          <modShopLabel>EUROS_LIV2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery3</modelName>
+          <modShopLabel>EUROS_LIV3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery4</modelName>
+          <modShopLabel>EUROS_LIV4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery5</modelName>
+          <modShopLabel>EUROS_LIV5</modShopLabel>
+          <linkedModels>
+            <Item>euros_bpillow</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery6</modelName>
+          <modShopLabel>EUROS_LIV6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery7</modelName>
+          <modShopLabel>EUROS_LIV7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery8</modelName>
+          <modShopLabel>EUROS_LIV8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery9</modelName>
+          <modShopLabel>EUROS_LIV9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery10</modelName>
+          <modShopLabel>EUROS_LIV10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery11</modelName>
+          <modShopLabel>EUROS_LIV11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery12</modelName>
+          <modShopLabel>EUROS_LIV12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery13</modelName>
+          <modShopLabel>EUROS_LIV13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_livery14</modelName>
+          <modShopLabel>EUROS_LIV14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_stwheel1</modelName>
+          <modShopLabel>SMOD2_STEER1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_stwheel2</modelName>
+          <modShopLabel>SMOD2_STEER2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_stwheel3</modelName>
+          <modShopLabel>SMOD2_STEER3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>euros_stwheel4</modelName>
+          <modShopLabel>SMOD2_STEER4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel5</modelName>
+          <modShopLabel>SMOD2_STEER5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel6</modelName>
+          <modShopLabel>SMOD2_STEER6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel7</modelName>
+          <modShopLabel>SMOD2_STEER7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel8</modelName>
+          <modShopLabel>SMOD2_STEER8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel9</modelName>
+          <modShopLabel>SMOD2_STEER9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel10</modelName>
+          <modShopLabel>SMOD2_STEER10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel11</modelName>
+          <modShopLabel>SMOD2_STEER11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel12</modelName>
+          <modShopLabel>SMOD2_STEER12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel13</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel14</modelName>
+          <modShopLabel>SMOD2_STEER14</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel15</modelName>
+          <modShopLabel>SMOD2_STEER15</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_stwheel16</modelName>
+          <modShopLabel>SMOD2_STEER16</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_sports1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketa1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketa2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketa3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketb1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketb2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketb3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketc1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketc2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketc3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketd1_smod</modelName>
+          <modShopLabel>SMOD_BSEAT11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketd2_smod</modelName>
+          <modShopLabel>SMOD_BSEAT12</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bucketd3_smod</modelName>
+          <modShopLabel>SMOD_BSEAT13</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_s</Item>
+          </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_cage</modelName>
+          <modShopLabel>EUR_CAGE</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_dashmat</modelName>
+          <modShopLabel>EUR_DASHM</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_roof</modelName>
+          <modShopLabel>EUR_ROOF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_u</Item>
+			<Item>misc_t</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_louvre_1</modelName>
+          <modShopLabel>EUR_LOUV1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_louvre_2</modelName>
+          <modShopLabel>EUR_LOUV2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_louvre_3</modelName>
+          <modShopLabel>EUR_LOUV3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_1</modelName>
+          <modShopLabel>EUR_BUMF_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_2</modelName>
+          <modShopLabel>EUR_BUMF_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_3</modelName>
+          <modShopLabel>EUR_BUMF_3</modShopLabel>
+          <linkedModels>
+			<Item>euros_bumf_2</Item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_4</modelName>
+          <modShopLabel>EUR_BUMF_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_5</modelName>
+          <modShopLabel>EUR_BUMF_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_6</modelName>
+          <modShopLabel>EUR_BUMF_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+            <Item>indicator_lf</Item>
+            <Item>indicator_rf</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_7</modelName>
+          <modShopLabel>EUR_BUMF_7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_8</modelName>
+          <modShopLabel>EUR_BUMF_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_9</modelName>
+          <modShopLabel>EUR_BUMF_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_10</modelName>
+          <modShopLabel>EUR_BUMF_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_11</modelName>
+          <modShopLabel>EUR_BUMF_11</modShopLabel>
+          <linkedModels>
+			<Item>euros_baypart</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumf_11</modelName>
+          <modShopLabel>EUR_BUMF_12</modShopLabel>
+          <linkedModels>
+			<Item>euros_baypart</Item>
+			<Item>euros_fsticker</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_diffuser</modelName>
+          <modShopLabel>EUR_BUMR_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_1</modelName>
+          <modShopLabel>EUR_BUMR_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_1</modelName>
+          <modShopLabel>EUR_BUMR_3</modShopLabel>
+          <linkedModels>
+			<Item>euros_diffuser</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_2</modelName>
+          <modShopLabel>EUR_BUMR_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_2</modelName>
+          <modShopLabel>EUR_BUMR_5</modShopLabel>
+          <linkedModels>
+			<Item>euros_diffuser</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_3</modelName>
+          <modShopLabel>EUR_BUMR_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_3</modelName>
+          <modShopLabel>EUR_BUMR_7</modShopLabel>
+          <linkedModels>
+            <Item>euros_rsticker_1</Item>
+            <Item>euros_rsticker_2</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_4</modelName>
+          <modShopLabel>EUR_BUMR_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_5</modelName>
+          <modShopLabel>EUR_BUMR_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_bumr_6</modelName>
+          <modShopLabel>EUR_BUMR_10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_skirt_1</modelName>
+          <modShopLabel>EUR_SKIRT_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_skirt_2</modelName>
+          <modShopLabel>EUR_SKIRT_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_skirt_3</modelName>
+          <modShopLabel>EUR_SKIRT_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_skirt_4</modelName>
+          <modShopLabel>EUR_SKIRT_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_skirt_5</modelName>
+          <modShopLabel>EUR_SKIRT_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_1</modelName>
+          <modShopLabel>EUR_EXH_1</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_single</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_2</modelName>
+          <modShopLabel>EUR_EXH_2</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_single</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_3</modelName>
+          <modShopLabel>EUR_EXH_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_4</modelName>
+          <modShopLabel>EUR_EXH_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_5</modelName>
+          <modShopLabel>EUR_EXH_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_6</modelName>
+          <modShopLabel>EUR_EXH_6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_7</modelName>
+          <modShopLabel>EUR_EXH_7</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_single_low</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_8</modelName>
+          <modShopLabel>EUR_EXH_8</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_low</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_9</modelName>
+          <modShopLabel>EUR_EXH_9</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_low</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_exh_10</modelName>
+          <modShopLabel>EUR_EXH_10</modShopLabel>
+          <linkedModels>
+			<Item>euros_exh_low</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_f</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_1</Item>
+			<Item>exhaust_2</Item>
+			<Item>exhaust_3</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_wing_1</modelName>
+          <modShopLabel>EUR_WING_1</modShopLabel>
+          <linkedModels>
+			<Item>euros_wing_1b</Item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_wing_2</modelName>
+          <modShopLabel>EUR_WING_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_wing_3</modelName>
+          <modShopLabel>EUR_WING_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_wing_4</modelName>
+          <modShopLabel>EUR_WING_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_wing_5</modelName>
+          <modShopLabel>EUR_WING_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_1</modelName>
+          <modShopLabel>EUR_HOOD_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_6</modelName>
+          <modShopLabel>EUR_HOOD_7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_2</modelName>
+          <modShopLabel>EUR_HOOD_2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_7</modelName>
+          <modShopLabel>EUR_HOOD_8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_3</modelName>
+          <modShopLabel>EUR_HOOD_3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_4</modelName>
+          <modShopLabel>EUR_HOOD_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_8</modelName>
+          <modShopLabel>EUR_HOOD_9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_5</modelName>
+          <modShopLabel>EUR_HOOD_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>euros_hood_5</modelName>
+          <modShopLabel>EUR_HOOD_6</modShopLabel>
+          <linkedModels>
+            <Item>euros_winsticker</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+        <Item>
+          <modelName>euros_baypart</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_bpillow</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_bumf_2</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_diffuser</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_exh_single</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_exh_single_low</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_exh_low</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_fsticker</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_rsticker_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_rsticker_2</modelName>
+          <bone>bumper_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_wing_1b</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>euros_winsticker</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1.00000000"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="30"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+		<Item>
+          <slot>VMT_CHASSIS4</slot>
+          <name>VMT_EUROS_LOUV</name>
+        </Item>
+      </slotNames>
+      <liveryNames />
+      <livery2Names />
+    </Item>
+   </Kits>
+</CVehicleModelInfoVarGlobal>
