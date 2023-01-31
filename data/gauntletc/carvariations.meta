@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>gauntletc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+			27
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			88
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			0
+			0
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			96
+			0
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			111
+			27
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			137
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			145
+			0
+			4
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			64
+			0
+			62
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			38
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			51
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			34
+			0
+			34
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			8
+			0
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			70
+			0
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			90
+			90
+			90
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			0
+			35
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			71
+			111
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			38
+			111
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			107
+			0
+			8
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			82
+			111
+			111
+			156
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+			66
+			66
+			66
+			156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1000_gauntletc_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="40" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
