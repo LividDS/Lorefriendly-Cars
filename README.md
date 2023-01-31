@@ -1,6 +1,6 @@
 # Lore friendly Cars
 A collection of high rated lore friendly vehicles from GTA5-mods. This pack contains add-on, replace and tuning cars and sounds.
-* All cars except the `zion4` and `nspeedo` run at <40 MiB of physical memory. `zion4` runs at 49 MiB of physical memory, `nspeedo` at 112 MiB of physical memory.
+* All cars except the `zion4`, `benson2` and `nspeedo` run at <40 MiB of physical memory. `zion4` runs at 49 MiB of physical memory, `nspeedo` at 112 MiB of physical memory. `benson2` at 172 MiB of physical memory.
 * Handling files are mostly lore friendly. If you do anything with the files and want to make a PR, feel free!
 * Quality models and sounds. 
 
@@ -36,7 +36,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Panorama](https://www.gta5-mods.com/vehicles/classique-panorama-pack-add-on-tuning-liveries-lods) & [Stardust](https://www.gta5-mods.com/vehicles/pfister-stardust-add-on-tuning) by [johndoe968](https://www.gta5-mods.com/users/johndoe968)
 * [Roxanne](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) by [TGI_J](https://www.gta5-mods.com/users/TGIJ)
 * [Streiter](https://www.gta5-mods.com/vehicles/benefactor-streiter-add-on) by [fummy](https://www.gta5-mods.com/users/fummy)
-* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
+* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning), [Spritzer](https://www.gta5-mods.com/vehicles/benefactor-spritzer-str-add-on-tuning) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 * [Executioner](https://www.gta5-mods.com/vehicles/vapid-executioner-add-on) by [Carrythxd](https://www.gta5-mods.com/users/Carrythxd)
 
@@ -358,6 +358,24 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['price'] = 1,
 		['category'] = 'coupes',
 		['hash'] = `streiter2`,
+		['shop'] = 'pdm',
+    },
+    ['spritzer'] = {
+		['name'] = 'Spritzer STR',
+		['brand'] = 'Benefactor',
+		['model'] = 'spritzer',
+		['price'] = 1,
+		['category'] = 'coupes',
+		['hash'] = `spritzer`,
+		['shop'] = 'pdm',
+    },
+    ['spritzerdtm'] = {
+		['name'] = 'Spritzer DTM',
+		['brand'] = 'Benefactor',
+		['model'] = 'spritzerdtm',
+		['price'] = 1,
+		['category'] = 'tuner',
+		['hash'] = `spritzerdtm`,
 		['shop'] = 'pdm',
     },
     ['sunrise1'] = {
