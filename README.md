@@ -30,13 +30,13 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Clique Deluxe](https://www.gta5-mods.com/vehicles/vapid-clique-deluxe-add-on-tuning-liveries-lods) by [Skysder](https://www.gta5-mods.com/users/Skysder)
 * [Coquette D10 Widebody](https://www.gta5-mods.com/vehicles/invetero-coquette-d10-widebody-add-on-tuning-hsw-sounds-lods) & [Stratum](https://www.gta5-mods.com/vehicles/zircoflow-stratum) by [LamboFreak](https://www.gta5-mods.com/users/LamboFreak)
 * [Gauntlet STX](https://www.gta5-mods.com/vehicles/bravado-gauntlet-stx), [Blazer Recon ATV](https://www.gta5-mods.com/vehicles/nagasaki-blazer-recon-atv-add-on-replace-liveries-template) & [Dukes Cobra](https://www.gta5-mods.com/vehicles/imponte-dukes-cobra) by [Algonquin Hood](https://www.gta5-mods.com/users/Algonquin%20Hood)
-* [Glendale Stretch](https://www.gta5-mods.com/vehicles/benefactor-glendale-stretch-add-on) & [Speedo Express](https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries) by [TheF3nt0n](https://www.gta5-mods.com/users/TheF3nt0n)
+* [Glendale Stretch](https://www.gta5-mods.com/vehicles/benefactor-glendale-stretch-add-on), [Benson](https://www.gta5-mods.com/vehicles/vapid-benson-mapped-add-on-replace) & [Speedo Express](https://www.gta5-mods.com/vehicles/vapid-speedo-express-add-on-liveries) by [TheF3nt0n](https://www.gta5-mods.com/users/TheF3nt0n)
 * [Yosemite DRT](https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom) & [Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning) by [GOM](https://www.gta5-mods.com/users/GOM)
 * [Kawaii](https://www.gta5-mods.com/vehicles/annis-kawaii-addon-replace-tuning) by [13Stewartc](https://www.gta5-mods.com/users/13Stewartc]
 * [Panorama](https://www.gta5-mods.com/vehicles/classique-panorama-pack-add-on-tuning-liveries-lods) & [Stardust](https://www.gta5-mods.com/vehicles/pfister-stardust-add-on-tuning) by [johndoe968](https://www.gta5-mods.com/users/johndoe968)
 * [Roxanne](https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries) by [TGI_J](https://www.gta5-mods.com/users/TGIJ)
 * [Streiter](https://www.gta5-mods.com/vehicles/benefactor-streiter-add-on) by [fummy](https://www.gta5-mods.com/users/fummy)
-* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
+* [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 
 # Adding cars to dealerships
@@ -68,6 +68,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['price'] = 1,
 		['category'] = 'offroad',
 		['hash'] = `baller7r`,
+		['shop'] = 'pdm',
+    },
+    ['benson2'] = {
+		['name'] = 'Benson',
+		['brand'] = 'Vapid',
+		['model'] = 'benson2',
+		['price'] = 1,
+		['category'] = 'utility',
+		['hash'] = `benson2`,
 		['shop'] = 'pdm',
     },
     ['squaddier'] = {
@@ -365,6 +374,24 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['price'] = 1,
 		['category'] = 'tuner',
 		['hash'] = `zion4`,
+		['shop'] = 'luxury',
+    },
+    ['zr380c'] = {
+		['name'] = 'ZR-380',
+		['brand'] = 'Annis',
+		['model'] = 'zr380c',
+		['price'] = 1,
+		['category'] = 'coupe',
+		['hash'] = `zr380c`,
+		['shop'] = 'pdm',
+    },
+    ['zr380s'] = {
+		['name'] = 'ZR-380 Custom',
+		['brand'] = 'Annis',
+		['model'] = 'zr380s',
+		['price'] = 1,
+		['category'] = 'tuner',
+		['hash'] = `zr380s`,
 		['shop'] = 'luxury',
     },
     
