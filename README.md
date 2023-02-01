@@ -39,6 +39,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Vulture](https://www.gta5-mods.com/vehicles/bravado-vulture-add-on-tuning-liveries-sounds), [ZR380C & ZR380S](https://www.gta5-mods.com/vehicles/annis-zr380-pack-add-on-tuning), [Spritzer](https://www.gta5-mods.com/vehicles/benefactor-spritzer-str-add-on-tuning), [Gauntlet Classic](https://www.gta5-mods.com/vehicles/bravado-gauntlet-classic-add-on-liveries-template/download/67645), [Dominator Classic](https://www.gta5-mods.com/vehicles/vapid-dominator-classic/download/29353), [Meteor](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on/download/72677), [Euros](https://www.gta5-mods.com/vehicles/annis-euros-add-on-tuning-liveries/download/80965), [Sentinel SG4](https://www.gta5-mods.com/vehicles/ubermacht-sentinel-sg4-add-on-liveries) & [Sunrise R](https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds) by [Boywond](https://www.gta5-mods.com/users/Boywond)
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 * [Executioner](https://www.gta5-mods.com/vehicles/vapid-executioner-add-on) by [Carrythxd](https://www.gta5-mods.com/users/Carrythxd)
+* [Paragon XR](https://www.gta5-mods.com/vehicles/enus-paragon-custom) & [Kampfer](https://www.gta5-mods.com/vehicles/ubermacht-kampfer-addon) by [Ydrop](https://www.gta5-mods.com/users/Ydrop)
 
 # Adding cars to dealerships
 * Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 32 cars, how bad could it be?)
@@ -270,6 +271,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `italigts`,
 		['shop'] = 'luxury',
     },
+    ['kampfer'] = {
+		['name'] = 'Kampfer',
+		['brand'] = 'Übermacht',
+		['model'] = 'kampfer',
+		['price'] = 1,
+		['category'] = 'motorcycles',
+		['hash'] = `kampfer`,
+		['shop'] = 'pdm',
+    },     
     ['meteor'] = {
 		['name'] = 'Meteor',
 		['brand'] = 'Pfister',
@@ -324,6 +334,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `paradox2`,
 		['shop'] = 'pdm',
     },
+    ['paragonxr'] = {
+		['name'] = 'Paragon XR',
+		['brand'] = 'Enus',
+		['model'] = 'paragonxr',
+		['price'] = 1,
+		['category'] = 'coupes',
+		['hash'] = `paragonxr`,
+		['shop'] = 'luxury',
+    },    
     ['peanut'] = {
 		['name'] = 'Peanut',
 		['brand'] = 'Weeny',
