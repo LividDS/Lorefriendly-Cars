@@ -148,6 +148,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `coquette4c`,
 		['shop'] = 'luxury',
     },
+    ['dilettantedx'] = {
+		['name'] = 'Dilettante DX',
+		['brand'] = 'Karin',
+		['model'] = 'dilettantedx',
+		['price'] = 1,
+		['category'] = 'sedans',
+		['hash'] = `dilettantedx`,
+		['shop'] = 'pdm',
+    },
     ['domc'] = {
 		['name'] = 'Dominator Classic',
 		['brand'] = 'Vapid',
@@ -320,6 +329,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['hash'] = `nspeedo`,
 		['shop'] = 'pdm',
     },
+    ['relaxer'] = {
+		['name'] = 'Relaxer',
+		['brand'] = 'Brute',
+		['model'] = 'relaxer',
+		['price'] = 1,
+		['category'] = 'vans',
+		['hash'] = `relaxer`,
+		['shop'] = 'luxury',
+    },
     ['kawaii'] = {
 		['name'] = 'Kawaii',
 		['brand'] = 'Annis',
@@ -382,6 +400,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['category'] = 'tuner',
 		['hash'] = `picadorexr`,
 		['shop'] = 'luxury',
+    },
+    ['raidenz'] = {
+		['name'] = 'Raiden Z',
+		['brand'] = 'Coil',
+		['model'] = 'raidenz',
+		['price'] = 1,
+		['category'] = 'sports',
+		['hash'] = `raidenz`,
+		['shop'] = 'pdm',
     },
     ['roxanne'] = {
 		['name'] = 'Roxanne',
@@ -472,6 +499,15 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['category'] = 'tuner',
 		['hash'] = `sunrise1`,
 		['shop'] = 'luxury',
+    },
+    ['torido'] = {
+		['name'] = 'Torido',
+		['brand'] = 'Annis',
+		['model'] = 'torido',
+		['price'] = 1,
+		['category'] = 'muscle',
+		['hash'] = `torido`,
+		['shop'] = 'pdm',
     },
     ['vigout'] = {
 		['name'] = 'Vigero Outlaw',
