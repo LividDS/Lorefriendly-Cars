@@ -21,6 +21,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * I will not offer support on any of these vehicles, everything on my part is in the README. If you want to change any handling files (which for some it's needed), you need to configure it yourself.
 
 # Credits
+* [Annis Elegy RH5 Heritage and Race](https://www.gta5-mods.com/vehicles/annis-elegy-rh5-heritage-edition-touring-add-on-lods-tuning-liveries) by [K1LLFANTASY](https://www.gta5-mods.com/users/K1LLFANTASY)
 * [Akuma Classic](https://www.gta5-mods.com/vehicles/dinka-akuma-classic-add-on-fivem) by [LaPanne Engineering](https://www.gta5-mods.com/users/LaPanne%20Engineering)
 * [Atlas](https://www.gta5-mods.com/vehicles/karin-atlas-add-on-liveries), [Dominator GTC](https://www.gta5-mods.com/vehicles/vapid-dominator-gtc-addon), [Elegant](https://www.gta5-mods.com/vehicles/willard-elegant-addon), [Picador EXR](https://www.gta5-mods.com/vehicles/cheval-picador-exr-addon-liveries-tuning) & [EVA](https://www.gta5-mods.com/vehicles/hijak-eva-add-on-liveries) by [Dani02](https://www.gta5-mods.com/users/Dani02)
 * [Baller Raid](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards) & [Squaddie Raid](https://www.gta5-mods.com/vehicles/mammoth-squaddie-raid-addon-liveries-lods-l0-l1-l2-l3-l4) by [BullseyeSBT](https://www.gta5-mods.com/users/BullseyeSBT)
@@ -179,6 +180,24 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 		['category'] = 'sedans',
 		['hash'] = `elegant`,
 		['shop'] = 'pdm',
+    },
+    ['elegyheritage'] = {
+		['name'] = 'Elegy Heritage',
+		['brand'] = 'Annis',
+		['model'] = 'elegyheritage',
+		['price'] = 1,
+		['category'] = 'sedans',
+		['hash'] = `elegyheritage`,
+		['shop'] = 'pdm',
+    },
+    ['elegyrace'] = {
+		['name'] = 'Elegy Race',
+		['brand'] = 'Annis',
+		['model'] = 'elegyrace',
+		['price'] = 1,
+		['category'] = 'tuner',
+		['hash'] = `elegyrace`,
+		['shop'] = 'tuner',
     },
     ['euros'] = {
 		['name'] = 'Euros',
