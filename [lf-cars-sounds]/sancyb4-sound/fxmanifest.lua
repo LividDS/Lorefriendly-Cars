@@ -10,4 +10,4 @@ files {
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/sancy_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/sancy_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_sancyelegy'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_sancy'
