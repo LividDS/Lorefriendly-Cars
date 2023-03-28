@@ -46,7 +46,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Paragon XR](https://www.gta5-mods.com/vehicles/enus-paragon-custom) & [Kampfer](https://www.gta5-mods.com/vehicles/ubermacht-kampfer-addon) by [Ydrop](https://www.gta5-mods.com/users/Ydrop)
 
 # Adding cars to dealerships
-* Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 32 cars, how bad could it be?)
+* Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 61 cars, how bad could it be?)
 ```lua
 -- Lorefriendly-Cars
     ['akumac'] = {
