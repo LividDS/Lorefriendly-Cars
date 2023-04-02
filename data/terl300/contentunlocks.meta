@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<!-- Add your car unlocks here -->
+	<Item>CU_TERL300_VEH</Item>
+  </listOfUnlocks>
+</SContentUnlocks>

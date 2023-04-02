@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <VehicleCoverBoundOffsetInfos />
+  <FirstPersonDriveByLookAroundData />
+
+  <VehicleExplosionInfos>
+    <Item type="CVehicleExplosionInfo">
+      <Name>EXPLOSION_INFO_DEFAULT</Name>
+      <ExplosionData />
+      <AdditionalPartVelocityMinAngle value="0.000000" />
+      <AdditionalPartVelocityMaxAngle value="0.000000" />
+      <AdditionalPartVelocityMinMagnitude value="0.000000" />
+      <AdditionalPartVelocityMaxMagnitude value="0.000000" />
+      <VehicleExplosionLODs>
+        <Item>
+          <Radius value="0.000000" />
+          <PartDeletionChance value="0.000000" />
+        </Item>
+        <Item>
+          <Radius value="10.000000" />
+          <PartDeletionChance value="0.400000" />
+        </Item>
+        <Item>
+          <Radius value="17.000000" />
+          <PartDeletionChance value="0.800000" />
+        </Item>
+      </VehicleExplosionLODs>
+    </Item>
+    <Item type="CVehicleExplosionInfo">
+      <Name>EXPLOSION_INFO_CAR</Name>
+      <ExplosionData>
+        <Item>
+          <ExplosionTag>CAR</ExplosionTag>
+          <PositionAtPetrolTank value="true" />
+          <PositionInBoundingBox value="false" />
+          <DelayTimeMs value="34" />
+          <Scale value="1.000000" />
+          <PositionOffset x="0.000000" y="0.000000" z="0.000000" />
+        </Item>
+      </ExplosionData>
+      <AdditionalPartVelocityMinAngle value="45.000000" />
+      <AdditionalPartVelocityMaxAngle value="60.000000" />
+      <AdditionalPartVelocityMinMagnitude value="5.000000" />
+      <AdditionalPartVelocityMaxMagnitude value="8.000000" />
+      <VehicleExplosionLODs>
+        <Item>
+          <Radius value="0.000000" />
+          <PartDeletionChance value="0.000000" />
+        </Item>
+        <Item>
+          <Radius value="15.000000" />
+          <PartDeletionChance value="0.400000" />
+        </Item>
+        <Item>
+          <Radius value="22.000000" />
+          <PartDeletionChance value="0.800000" />
+        </Item>
+      </VehicleExplosionLODs>
+    </Item>
+  </VehicleExplosionInfos>  
+</CVehicleMetadataMgr>
