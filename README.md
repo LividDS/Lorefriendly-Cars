@@ -1,8 +1,8 @@
 # Lore friendly Cars
-A collection of high rated lore friendly vehicles from GTA5-mods. This pack contains add-on, replace and tuning cars and sounds.
-* All cars except the `zion4`, `benson2` and `nspeedo` run at <40 MiB of physical memory. `zion4` runs at 49 MiB of physical memory, `nspeedo` at 112 MiB of physical memory. `benson2` at 172 MiB of physical memory.
-* Handling files are mostly lore friendly. If you do anything with the files and want to make a PR, feel free!
-* Quality models and sounds. 
+A collection of high rated lore friendly vehicles from GTA5-mods. This pack features a mixture of add-on, replace and tuning cars. Some also feature custom sounds.
+* Only high quality models and sounds. 
+* **Most** models run at <40 MiB of physical memory.
+* Most handling files are lore friendly. Feel free to make a PR if you fix handling on one of the featured vehicles.
 
 # Important ⚠️
 * All credits to go the original creators of these vehicles. These vehicles may be removed from the pack if the owners will it.
@@ -44,6 +44,12 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack cont
 * [Zion Classic Custom](https://www.gta5-mods.com/vehicles/ubermacht-zion-classic-custom) by [BB20](https://www.gta5-mods.com/users/BB20)
 * [Executioner](https://www.gta5-mods.com/vehicles/vapid-executioner-add-on) by [Carrythxd](https://www.gta5-mods.com/users/Carrythxd)
 * [Paragon XR](https://www.gta5-mods.com/vehicles/enus-paragon-custom) & [Kampfer](https://www.gta5-mods.com/vehicles/ubermacht-kampfer-addon) by [Ydrop](https://www.gta5-mods.com/users/Ydrop)
+
+# To-do List
+* Update handling to be a lore friendly standard.
+* Make sure soundfiles work properly when provided.
+* Update README to contain credits to all creators.
+* Update README/Adding cars to dealerships to contain all vehicles.
 
 # Adding cars to dealerships
 * Add to `qb-core/shared/vehicles.lua` make sure to change the prices on these (it's only 61 cars, how bad could it be?)
