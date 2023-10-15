@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>oceanic</modelName>
+      <txdName>oceanic</txdName>
+      <handlingId>OCEANIC</handlingId>
+      <gameName>OCEANIC</gameName>
+      <vehicleMakeName>BRAVADO</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>eudora</audioNameHash>
+      <layout>LAYOUT_STANDARD</layout>
+      <coverBoundOffsets>EUDORA_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_CHEETAH_CAMERA</cameraName>
+      <aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_LOW_CALICO</bonnetCameraName>
+      <povCameraName>REDUCED_NEAR_CLIP_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="-0.020000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.100000" z="-0.040000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="-0.100000" z="-0.040000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.090000" z="0.000000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000" />
+	  <FirstPersonMobilePhoneOffset x="0.155000" y="0.178000" z="0.566000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.128000" z="0.433000" />
+      <PovCameraOffset x="0.000000" y="-0.225000" z="0.665000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.080000" z="-0.050000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="-0.010000" />
+      <vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.206000" />
+      <wheelScaleRear value="0.206000" />
+      <dirtLevelMin value="0.000000" />
+      <dirtLevelMax value="0.850000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.500000" />
+      <damageOffsetScale value="0.500000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="1.000000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        40.000000
+        50.000000
+        60.000000
+        120.000000
+        500.000000
+        500.000000
+      </lodDistances>
+      <minSeatHeight value="0.822" />
+      <identicalModelSpawnDistance value="20" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="1.000000" />
+      <frequency value="20" />
+      <swankness>SWANKNESS_1</swankness>
+      <maxNum value="5" />
+      <flags>FLAG_AVERAGE_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_LOWRIDER_HYDRAULICS FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+      <dashboardType>VDT_PEYOTE</dashboardType>
+      <vehicleClass>VC_MUSCLE</vehicleClass>
+      <wheelType>VWT_LOWRIDER</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="true" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+        <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet />
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+	  <firstPersonDrivebyData>
+        <Item>LOW_EUDORA_FRONT_LEFT</Item>
+        <Item>LOW_EUDORA_FRONT_RIGHT</Item>
+	    <Item>LOW_EUDORA_REAR_LEFT</Item>
+        <Item>LOW_EUDORA_REAR_RIGHT</Item>
+      </firstPersonDrivebyData>
+	  <LowriderLeanAccelModifier value="1.000000" />
+    </Item>
+  </InitDatas>
+ <txdRelationships>
+    <Item>
+      <parent>vehshare_truck</parent>
+      <child>oceanic</child>
+    </Item>
+	<Item>
+      <parent>vehshare_worn</parent>
+      <child>oceanic</child>
+    </Item>
+	<Item>
+      <parent>vehshare_army</parent>
+      <child>oceanic</child>
+    </Item>
+    <Item>
+      <parent>vehicles_schaf_interior</parent>
+      <child>oceanic</child>
+    </Item>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>

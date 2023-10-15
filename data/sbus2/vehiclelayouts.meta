@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleMetadataMgr>
+<VehicleLayoutInfos>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_SBUS3</Name>
+      <Seats>
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_NO_SHUFFLE_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_PRISON_BUS_FRONT_LEFT" />
+        </Item>
+      </Seats>
+      <EntryPoints>
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_BUS_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_PRISON_BUS_FRONT_LEFT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims WaitForRerservationInGroup AllowEarlyDoorAndSeatUnreservation UseLeanSteerAnims UseSteeringWheelIk UseFinerAlignTolerance</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+	  <MaxXAcceleration value="4.00000" />
+	  <BodyLeanXApproachSpeed value="5.00000" />
+	  <BodyLeanXSmallDelta value="0.30000" />
+    </Item>
+  </VehicleLayoutInfos>
+</CVehicleMetadataMgr>

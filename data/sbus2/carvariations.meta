@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+   <variationData>
+      <Item>
+         <modelName>sbus2</modelName>
+         <colors>
+           <Item>
+             <indices content="char_array">
+             126
+             12
+             0
+             114
+             121
+             78
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             126
+             12
+             0
+             1
+             126
+             13
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             126
+             12
+             0
+             126
+             126
+             151
+             </indices>
+             <liveries />
+           </Item>
+         </colors>
+         <kits/>
+         <windowsWithExposedEdges/>
+          <plateProbabilities>
+            <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="40"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20"/>
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="20"/>
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="20"/>
+          </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0"/>
+         <sirenSettings value="36"/>
+      </Item>
+      <Item>
+         <modelName>sbus3</modelName>
+         <colors>
+           <Item>
+             <indices content="char_array">
+             132
+             131
+             0
+             31
+             112
+             29
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             13
+             39
+             0
+             40
+             131
+             3
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             126
+             12
+             0
+             114
+             3
+             66
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             77
+             77
+             0
+             131
+             77
+             122
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             123
+             12
+             0
+             114
+             3
+             31
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             85
+             85
+             0
+             22
+             15
+             12
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             41
+             41
+             0
+             1
+             24
+             41
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             13
+             13
+             33
+             0
+             34
+             22
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             131
+             131
+             112
+             54
+             157
+             260
+             </indices>
+             <liveries />
+           </Item>
+           <Item>
+             <indices content="char_array">
+             135
+             135
+             136
+             148
+             136
+             145
+             </indices>
+             <liveries />
+           </Item>
+         </colors>
+         <kits>
+           <Item>610_sbus3_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges/>
+          <plateProbabilities>
+            <Probabilities />
+         </plateProbabilities>
+         <lightSettings value="2"/>
+         <sirenSettings value="0"/>
+     </Item>
+   </variationData>
+</CVehicleModelInfoVariation>

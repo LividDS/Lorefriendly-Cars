@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>nebula2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1   
+            1
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            144 
+            144
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            60  
+            60
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            30  
+            30
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            106 
+            106
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107 
+            144
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28  
+            28
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27  
+            112
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54  
+            54
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            68  
+            68
+            134
+            156
+            0
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>612_nebula2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>white plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

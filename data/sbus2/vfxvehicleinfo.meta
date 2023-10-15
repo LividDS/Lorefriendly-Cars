@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVfxVehicleInfoMgr>
+  <vfxVehicleInfos>
+    <Item type="CVfxVehicleInfo" key="vfxvehicleinfo_truck_sbus3">
+      <mtlBangPtFxVehicleEvo value="0.300000" />
+      <mtlBangPtFxVehicleScale value="1.000000" />
+      <mtlScrapePtFxVehicleEvo value="0.650000" />
+      <mtlScrapePtFxVehicleScale value="1.000000" />
+      <exhaustPtFxEnabled value="true" />
+      <exhaustPtFxName>veh_exhaust_truck</exhaustPtFxName>
+      <exhaustPtFxCutOffSpeed value="2000.000000" />
+      <exhaustPtFxRange value="60.000000" />
+      <exhaustPtFxScale value="1.000000" />
+      <exhaustPtFxSpeedEvoMin value="0.000000" />
+      <exhaustPtFxSpeedEvoMax value="3.000000" />
+      <exhaustPtFxTempEvoMin value="100.000000" />
+      <exhaustPtFxTempEvoMax value="100.000000" />
+      <exhaustPtFxThrottleEvoOnGearChange value="true" />
+      <engineStartupPtFxEnabled value="true" />
+      <engineStartupPtFxName>veh_exhaust_start</engineStartupPtFxName>
+      <engineStartupPtFxRange value="30.000000" />
+      <misfirePtFxEnabled value="true" />
+      <misfirePtFxName>veh_exhaust_misfire</misfirePtFxName>
+      <misfirePtFxRange value="30.000000" />
+      <backfirePtFxEnabled value="true" />
+      <backfirePtFxName>veh_backfire</backfirePtFxName>
+      <backfirePtFxRange value="30.000000" />
+      <engineDamagePtFxEnabled value="true" />
+      <engineDamagePtFxHasPanel value="true" />
+      <engineDamagePtFxHasRotorEvo value="false" />
+      <engineDamagePtFxNoPanelName>none</engineDamagePtFxNoPanelName>
+      <engineDamagePtFxPanelOpenName>veh_panel_open_truck</engineDamagePtFxPanelOpenName>
+      <engineDamagePtFxPanelShutName>veh_panel_shut_truck</engineDamagePtFxPanelShutName>
+      <engineDamagePtFxRange value="150.000000" />
+      <engineDamagePtFxSpeedEvoMin value="0.000000" />
+      <engineDamagePtFxSpeedEvoMax value="10.000000" />
+      <overturnedSmokePtFxEnabled value="false" />
+      <overturnedSmokePtFxName />
+      <overturnedSmokePtFxRange value="50.000000" />
+      <overturnedSmokePtFxAngleThresh value="-0.700000" />
+      <overturnedSmokePtFxSpeedThresh value="1.000000" />
+      <overturnedSmokePtFxEngineHealthThresh value="400.000000" />
+      <leakPtFxEnabled value="true" />
+      <leakPtFxOilName>veh_oil_leak</leakPtFxOilName>
+      <leakPtFxPetrolName>veh_petrol_leak</leakPtFxPetrolName>
+      <leakPtFxRange value="60.000000" />
+      <leakPtFxSpeedEvoMin value="0.000000" />
+      <leakPtFxSpeedEvoMax value="25.000000" />
+      <wheelGenericPtFxSet value="1" />
+      <wheelGenericDecalSet value="1" />
+      <wheelGenericRangeMult value="2.000000" />
+      <wheelSkidmarkRearOnly value="false" />
+      <wheelSkidmarkSlipMult value="1.000000" />
+      <wheelSkidmarkPressureMult value="1.000000" />
+      <wheelFrictionPtFxFricMult value="1.000000" />
+      <wheelDisplacementPtFxDispMult value="1.000000" />
+      <wheelBurnoutPtFxFricMult value="1.000000" />
+      <wheelBurnoutPtFxTempMult value="1.000000" />
+      <wheelLowLodPtFxScale value="1.000000" />
+      <wheelPuncturePtFxName>veh_wheel_puncture</wheelPuncturePtFxName>
+      <wheelPuncturePtFxRange value="25.000000" />
+      <wheelBurstPtFxName>veh_wheel_burst</wheelBurstPtFxName>
+      <wheelBurstPtFxRange value="60.000000" />
+      <wheelFirePtFxName>fire_wheel</wheelFirePtFxName>
+      <wheelFirePtFxRange value="60.000000" />
+      <wheelFirePtFxSpeedEvoMin value="0.000000" />
+      <wheelFirePtFxSpeedEvoMax value="5.000000" />
+      <wreckedFirePtFxEnabled value="true" />
+      <wreckedFirePtFxName>fire_wrecked_truck</wreckedFirePtFxName>
+      <wreckedFirePtFxDurationMin value="25.000000" />
+      <wreckedFirePtFxDurationMax value="40.000000" />
+      <wreckedFirePtFxRadius value="2.200000" />
+      <wreckedFire2PtFxEnabled value="false" />
+      <wreckedFire2PtFxName>fire_wrecked_truck_vent</wreckedFire2PtFxName>
+      <wreckedFire2PtFxDurationMin value="25.000000" />
+      <wreckedFire2PtFxDurationMax value="40.000000" />
+      <wreckedFire2PtFxRadius value="1.000000" />
+      <wreckedFire2UseOverheatBone value="false" />
+      <wreckedFire2OffsetPos x="0.500000" y="0.000000" z="0.000000" />
+      <wreckedFire3PtFxEnabled value="false" />
+      <wreckedFire3PtFxName>fire_wrecked_truck_vent</wreckedFire3PtFxName>
+      <wreckedFire3PtFxDurationMin value="15.000000" />
+      <wreckedFire3PtFxDurationMax value="20.000000" />
+      <wreckedFire3PtFxRadius value="1.000000" />
+      <wreckedFire3UseOverheatBone value="true" />
+      <wreckedFire3OffsetPos x="0.000000" y="0.000000" z="0.000000" />
+      <petrolTankFirePtFxName>fire_petroltank_truck</petrolTankFirePtFxName>
+      <petrolTankFirePtFxRange value="60.000000" />
+      <petrolTankFirePtFxSpeedEvoMin value="0.000000" />
+      <petrolTankFirePtFxSpeedEvoMax value="5.000000" />
+      <petrolTankFirePtFxRadius value="0.600000" />
+      <boatEntryPtFxEnabled value="false" />
+      <boatEntryPtFxRange value="40.000000" />
+      <boatEntryPtFxName />
+      <boatEntryPtFxSpeedEvoMin value="0.000000" />
+      <boatEntryPtFxSpeedEvoMax value="20.000000" />
+      <boatEntryPtFxScale value="1.000000" />
+      <boatExitPtFxEnabled value="false" />
+      <boatExitPtFxRange value="40.000000" />
+      <boatExitPtFxName />
+      <boatExitPtFxSpeedEvoMin value="0.000000" />
+      <boatExitPtFxSpeedEvoMax value="20.000000" />
+      <boatExitPtFxScale value="1.000000" />
+      <boatBowPtFxEnabled value="false" />
+      <boatBowPtFxRange value="40.000000" />
+      <boatBowPtFxForwardName />
+      <boatBowPtFxReverseName />
+      <boatBowPtFxForwardMountedName />
+      <boatBowPtFxForwardMountedOffset x="0.000000" y="0.000000" z="0.000000" />
+      <boatBowPtFxSpeedEvoMin value="0.000000" />
+      <boatBowPtFxSpeedEvoMax value="20.000000" />
+      <boatBowPtFxKeelEvoMin value="20.000000" />
+      <boatBowPtFxKeelEvoMax value="200.000000" />
+      <boatBowPtFxScale value="1.000000" />
+      <boatBowPtFxReverseOffset value="0.000000" />
+      <boatWashPtFxEnabled value="false" />
+      <boatWashPtFxRange value="40.000000" />
+      <boatWashPtFxName />
+      <boatWashPtFxSpeedEvoMin value="0.000000" />
+      <boatWashPtFxSpeedEvoMax value="20.000000" />
+      <boatWashPtFxScale value="1.000000" />
+      <boatPropellerPtFxEnabled value="false" />
+      <boatPropellerPtFxRange value="40.000000" />
+      <boatPropellerPtFxName />
+      <boatPropellerPtFxForwardSpeedEvoMin value="0.000000" />
+      <boatPropellerPtFxForwardSpeedEvoMax value="6.000000" />
+      <boatPropellerPtFxBackwardSpeedEvoMin value="0.000000" />
+      <boatPropellerPtFxBackwardSpeedEvoMax value="6.000000" />
+      <boatPropellerPtFxDepthEvoMin value="0.000000" />
+      <boatPropellerPtFxDepthEvoMax value="1.000000" />
+      <boatPropellerPtFxScale value="1.000000" />
+      <boatLowLodWakePtFxEnabled value="false" />
+      <boatLowLodWakePtFxRangeMin value="40.000000" />
+      <boatLowLodWakePtFxRangeMax value="400.000000" />
+      <boatLowLodWakePtFxName />
+      <boatLowLodWakePtFxSpeedEvoMin value="0.000000" />
+      <boatLowLodWakePtFxSpeedEvoMax value="10.000000" />
+      <boatLowLodWakePtFxScale value="1.000000" />
+      <planeAfterburnerPtFxEnabled value="false" />
+      <planeAfterburnerPtFxName />
+      <planeAfterburnerPtFxRange value="100.000000" />
+      <planeAfterburnerPtFxScale value="1.000000" />
+      <planeWingTipPtFxEnabled value="false" />
+      <planeWingTipPtFxName />
+      <planeWingTipPtFxRange value="100.000000" />
+      <planeWingTipPtFxSpeedEvoMin value="0.000000" />
+      <planeWingTipPtFxSpeedEvoMax value="1.000000" />
+      <planeDamageFirePtFxEnabled value="false" />
+      <planeDamageFirePtFxName />
+      <planeDamageFirePtFxRange value="100.000000" />
+      <planeDamageFirePtFxSpeedEvoMin value="0.000000" />
+      <planeDamageFirePtFxSpeedEvoMax value="20.000000" />
+      <planeGroundDisturbPtFxEnabled value="false" />
+      <planeGroundDisturbPtFxNameDefault />
+      <planeGroundDisturbPtFxNameSand />
+      <planeGroundDisturbPtFxNameDirt />
+      <planeGroundDisturbPtFxNameWater />
+      <planeGroundDisturbPtFxNameFoliage />
+      <planeGroundDisturbPtFxRange value="70.000000" />
+      <planeGroundDisturbPtFxDist value="20.000000" />
+      <planeGroundDisturbPtFxSpeedEvoMin value="0.000000" />
+      <planeGroundDisturbPtFxSpeedEvoMax value="20.000000" />
+      <aircraftSectionDamageSmokePtFxEnabled value="false" />
+      <aircraftSectionDamageSmokePtFxName />
+      <aircraftSectionDamageSmokePtFxRange value="100.000000" />
+      <aircraftSectionDamageSmokePtFxSpeedEvoMin value="0.000000" />
+      <aircraftSectionDamageSmokePtFxSpeedEvoMax value="20.000000" />
+      <aircraftDownwashPtFxEnabled value="false" />
+      <aircraftDownwashPtFxNameDefault />
+      <aircraftDownwashPtFxNameSand />
+      <aircraftDownwashPtFxNameDirt />
+      <aircraftDownwashPtFxNameWater />
+      <aircraftDownwashPtFxNameFoliage />
+      <aircraftDownwashPtFxRange value="70.000000" />
+      <aircraftDownwashPtFxDist value="20.000000" />
+      <aircraftDownwashPtFxSpeedEvoMin value="0.000000" />
+      <aircraftDownwashPtFxSpeedEvoMax value="20.000000" />
+      <splashInPtFxEnabled value="true" />
+      <splashInPtFxRange value="100.000000" />
+      <splashInPtFxName>water_splash_veh_in</splashInPtFxName>
+      <splashInPtFxSizeEvoMax value="5.000000" />
+      <splashInPtFxSpeedDownwardThresh value="2.000000" />
+      <splashInPtFxSpeedLateralEvoMin value="2.000000" />
+      <splashInPtFxSpeedLateralEvoMax value="15.000000" />
+      <splashInPtFxSpeedDownwardEvoMin value="2.000000" />
+      <splashInPtFxSpeedDownwardEvoMax value="15.000000" />
+      <splashOutPtFxEnabled value="true" />
+      <splashOutPtFxRange value="50.000000" />
+      <splashOutPtFxName>water_splash_veh_out</splashOutPtFxName>
+      <splashOutPtFxSizeEvoMax value="5.000000" />
+      <splashOutPtFxSpeedLateralEvoMin value="2.000000" />
+      <splashOutPtFxSpeedLateralEvoMax value="15.000000" />
+      <splashOutPtFxSpeedUpwardEvoMin value="2.000000" />
+      <splashOutPtFxSpeedUpwardEvoMax value="15.000000" />
+      <splashWadePtFxEnabled value="true" />
+      <splashWadePtFxRange value="50.000000" />
+      <splashWadePtFxName>water_splash_veh_wade</splashWadePtFxName>
+      <splashWadePtFxSizeEvoMax value="5.000000" />
+      <splashWadePtFxSpeedVehicleEvoMin value="0.000000" />
+      <splashWadePtFxSpeedVehicleEvoMax value="15.000000" />
+      <splashWadePtFxSpeedRiverEvoMin value="0.000000" />
+      <splashWadePtFxSpeedRiverEvoMax value="15.000000" />
+      <splashTrailPtFxEnabled value="true" />
+      <splashTrailPtFxRange value="50.000000" />
+      <splashTrailPtFxName>water_splash_veh_trail</splashTrailPtFxName>
+      <splashTrailPtFxSizeEvoMax value="5.000000" />
+      <splashTrailPtFxSpeedEvoMin value="0.000000" />
+      <splashTrailPtFxSpeedEvoMax value="12.000000" />
+    </Item>
+  </vfxVehicleInfos>
+</CVfxVehicleInfoMgr>
