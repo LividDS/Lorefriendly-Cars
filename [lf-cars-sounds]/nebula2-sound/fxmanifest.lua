@@ -8,6 +8,6 @@ files {
   'audioconfig/*.dat10.rel',
 }
 
-data_file 'AUDIO_GAMEDATA' 'audioconfig/sbus2_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/sbus2_sounds.dat'
-data_file 'AUDIO_AMPDATA' 'audioconfig/sbus2_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/nebula2_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/nebula2_sounds.dat'
+data_file 'AUDIO_AMPDATA' 'audioconfig/nebula2_amp.dat'
