@@ -50,7 +50,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `arias`,
 		['shop'] = 'pdm',
     },
-	['asteropers'] = {
+    ['asteropers'] = {
 		['name'] = 'Asterope RS',
 		['brand'] = 'Karin',
 		['model'] = 'asteropers',
@@ -59,7 +59,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `asteropers`,
 		['shop'] = 'luxury',
     },
-	['atlas'] = {
+    ['atlas'] = {
 		['name'] = 'Atlas',
 		['brand'] = 'Karin',
 		['model'] = 'atlas',
@@ -68,7 +68,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `atlas`,
 		['shop'] = 'pdm',
     },
-	['auroras'] = {
+    ['auroras'] = {
 		['name'] = 'Aurora Sport LHD',
 		['brand'] = 'Progen',
 		['model'] = 'auroras',
@@ -77,7 +77,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `auroras`,
 		['shop'] = 'luxury',
     },
-	['auroras2'] = {
+    ['auroras2'] = {
 		['name'] = 'Aurora Sport RHD',
 		['brand'] = 'Progen',
 		['model'] = 'auroras2',
@@ -95,7 +95,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `baller7r`,
 		['shop'] = 'pdm',
     },
-	['bcatctx'] = {
+    ['bcatctx'] = {
 		['name'] = 'Bobcat CTX',
 		['brand'] = 'Vapid',
 		['model'] = 'bcatctx',
@@ -113,7 +113,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `benson2`,
 		['shop'] = 'truck',
     },
-	['beretta'] = {
+    ['beretta'] = {
 		['name'] = 'Beretta',
 		['brand'] = 'Übermacht',
 		['model'] = 'beretta',
@@ -140,7 +140,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `buffalo4h`,
 		['shop'] = 'luxury',
     },
-	['brisket'] = {
+    ['brisket'] = {
 		['name'] = 'Brisket',
 		['brand'] = 'Weeny',
 		['model'] = 'brisket',
@@ -149,7 +149,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `brisket`,
 		['shop'] = 'pdm',
     },
-	['brisket2'] = {
+    ['brisket2'] = {
 		['name'] = 'Brisket Rally',
 		['brand'] = 'Weeny',
 		['model'] = 'brisket2',
@@ -158,7 +158,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `brisket2`,
 		['shop'] = 'pdm',
     },
-	['brisket3'] = {
+    ['brisket3'] = {
 		['name'] = 'Brisket Gasser',
 		['brand'] = 'Weeny',
 		['model'] = 'brisket3',
@@ -176,7 +176,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `burritor`,
 		['shop'] = 'luxury',
     },
-	['callista'] = {
+    ['callista'] = {
 		['name'] = 'Comet Callista',
 		['brand'] = 'Pfister',
 		['model'] = 'callista',
@@ -185,7 +185,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `callista`,
 		['shop'] = 'luxury',
     },
-	['caracaran'] = {
+    ['caracaran'] = {
 		['name'] = 'Caracara',
 		['brand'] = 'Vapid',
 		['model'] = 'caracaran',
@@ -194,7 +194,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `caracaran`,
 		['shop'] = 'pdm',
     },
-	['castella'] = {
+    ['castella'] = {
 		['name'] = 'Castella',
 		['brand'] = 'Shitzu',
 		['model'] = 'castella',
@@ -230,7 +230,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `coquette4c`,
 		['shop'] = 'luxury',
     },
-	['cwagon'] = {
+    ['cwagon'] = {
 		['name'] = 'Compact Wagon',
 		['brand'] = 'Schyster',
 		['model'] = 'cwagon',
@@ -329,7 +329,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `executioner`,
 		['shop'] = 'pdm',
     },
-	['f620d'] = {
+    ['f620d'] = {
 		['name'] = 'F620',
 		['brand'] = 'Ocelot',
 		['model'] = 'f620d',
@@ -347,7 +347,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `f620s2`,
 		['shop'] = 'luxury',
     },
-	['fagaloac'] = {
+    ['fagaloac'] = {
 		['name'] = 'Fagaloa Coupe',
 		['brand'] = 'Vulcar',
 		['model'] = 'fagaloac',
@@ -356,7 +356,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `fagaloac`,
 		['shop'] = 'pdm',
     },
-	['feltzer9'] = {
+    ['feltzer9'] = {
 		['name'] = 'Sterling',
 		['brand'] = 'Benefactor',
 		['model'] = 'feltzer9',
@@ -401,7 +401,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `gstyosemite1`,
 		['shop'] = 'luxury',
     },
-	['hachura'] = {
+    ['hachura'] = {
 		['name'] = 'Hachura R',
 		['brand'] = 'Vulcar',
 		['model'] = 'hachura',
@@ -410,7 +410,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `hachura`,
 		['shop'] = 'luxury',
     },
-	['hotringfr'] = {
+    ['hotringfr'] = {
 		['name'] = 'Hotring Fortune',
 		['brand'] = 'Vapid',
 		['model'] = 'hotringfr',
@@ -437,7 +437,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `ingotc`,
 		['shop'] = 'pdm',
     },
-	['issi8s'] = {
+    ['issi8s'] = {
 		['name'] = 'Issi Rally',
 		['brand'] = 'Weeny',
 		['model'] = 'issi8s',
@@ -446,7 +446,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `issi8s`,
 		['shop'] = 'pdm',
     },
-	['italigts'] = {
+    ['italigts'] = {
 		['name'] = 'Itali GTS',
 		['brand'] = 'Grotti',
 		['model'] = 'italigts',
@@ -482,7 +482,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `kawaii`,
 		['shop'] = 'luxury',
     },
-	['kriegerc'] = {
+    ['kriegerc'] = {
 		['name'] = 'Krieger BPX-32B',
 		['brand'] = 'Benefactor',
 		['model'] = 'kriegerc',
@@ -491,7 +491,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `kriegerc`,
 		['shop'] = 'tuner',
     },
-	['l35l'] = {
+    ['l35l'] = {
 		['name'] = 'Walton Bed',
 		['brand'] = 'Declasse',
 		['model'] = 'l35l',
@@ -500,7 +500,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `l35l`,
 		['shop'] = 'pdm',
     },
-	['l35r'] = {
+    ['l35r'] = {
 		['name'] = 'Walton',
 		['brand'] = 'Declasse',
 		['model'] = 'l35r',
@@ -509,7 +509,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `l35r`,
 		['shop'] = 'pdm',
     },
-	['l35s'] = {
+    ['l35s'] = {
 		['name'] = 'Walton Slambed',
 		['brand'] = 'Declasse',
 		['model'] = 'l35s',
@@ -518,7 +518,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `l35s`,
 		['shop'] = 'pdm',
     },
-	['m420'] = {
+    ['m420'] = {
 		['name'] = 'Monroe SOTW Edition',
 		['brand'] = 'Pegassi',
 		['model'] = 'm420',
@@ -527,7 +527,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `m420`,
 		['shop'] = 'luxury',
     },
-	['mesaxl'] = {
+    ['mesaxl'] = {
 		['name'] = 'Gator 4x4',
 		['brand'] = 'Canis',
 		['model'] = 'mesaxl',
@@ -536,7 +536,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `mesaxl`,
 		['shop'] = 'pdm',
     },
-	['meteor'] = {
+    ['meteor'] = {
 		['name'] = 'Meteor',
 		['brand'] = 'Pfister',
 		['model'] = 'meteor',
@@ -545,7 +545,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `meteor`,
 		['shop'] = 'luxury',
     },
-	['morningstar'] = {
+    ['morningstar'] = {
 		['name'] = 'Morningstar',
 		['brand'] = 'Schyster',
 		['model'] = 'morningstar',
@@ -581,7 +581,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `nspeedo`,
 		['shop'] = 'pdm',
     },
-	['oceanic'] = {
+    ['oceanic'] = {
 		['name'] = 'Oceanic',
 		['brand'] = 'Bravado',
 		['model'] = 'oceanic',
@@ -662,7 +662,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `peanut`,
 		['shop'] = 'pdm',
     },
-	['penman'] = {
+    ['penman'] = {
 		['name'] = 'Penman',
 		['brand'] = 'Vapid',
 		['model'] = 'penman',
@@ -698,7 +698,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `primo3`,
 		['shop'] = 'pdm',
     },
-	['raidenz'] = {
+    ['raidenz'] = {
 		['name'] = 'Raiden Z',
 		['brand'] = 'Coil',
 		['model'] = 'raidenz',
@@ -707,7 +707,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `raidenz`,
 		['shop'] = 'pdm',
     },
-	['recursion'] = {
+    ['recursion'] = {
 		['name'] = 'Recursion',
 		['brand'] = 'Bravado',
 		['model'] = 'recursion',
@@ -725,7 +725,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `relaxer`,
 		['shop'] = 'truck',
     },
-	['remusvert'] = {
+    ['remusvert'] = {
 		['name'] = 'Remus Cabrio',
 		['brand'] = 'Annis',
 		['model'] = 'remusvert',
@@ -734,7 +734,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `remusvert`,
 		['shop'] = 'pdm',
     },
-	['restovig'] = {
+    ['restovig'] = {
 		['name'] = 'Vigero Outlaw',
 		['brand'] = 'Declasse',
 		['model'] = 'restovig',
@@ -743,7 +743,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `restovig`,
 		['shop'] = 'pdm',
     },
-	['rh4'] = {
+    ['rh4'] = {
 		['name'] = 'Elegy RH4',
 		['brand'] = 'Annis',
 		['model'] = 'rh4',
@@ -752,7 +752,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `rh4`,
 		['shop'] = 'tuner',
     },
-	['riata'] = {
+    ['riata'] = {
 		['name'] = 'Riata Monster',
 		['brand'] = 'Vapid',
 		['model'] = 'riata',
@@ -761,7 +761,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `riata`,
 		['shop'] = 'pdm',
     },
-	['riata2'] = {
+    ['riata2'] = {
 		['name'] = 'Riata',
 		['brand'] = 'Vapid',
 		['model'] = 'riata2',
@@ -779,7 +779,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `roxanne`,
 		['shop'] = 'luxury',
     },
-	['ruinerafd'] = {
+    ['ruinerafd'] = {
 		['name'] = 'Ruiner UTE',
 		['brand'] = 'Imponte',
 		['model'] = 'ruinerafd',
@@ -815,7 +815,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `sandstormxl`,
 		['shop'] = 'pdm',
     },
-	['sbus2'] = {
+    ['sbus2'] = {
 		['name'] = 'School Bus',
 		['brand'] = 'Brute',
 		['model'] = 'sbus2',
@@ -824,7 +824,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `sbus2`,
 		['shop'] = 'truck',
     },
-	['sbus3'] = {
+    ['sbus3'] = {
 		['name'] = 'Derby Bus',
 		['brand'] = 'Brute',
 		['model'] = 'sbus3',
@@ -887,7 +887,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `spritzer`,
 		['shop'] = 'pdm',
     },
-	['spritzerdtm'] = {
+    ['spritzerdtm'] = {
 		['name'] = 'Spritzer DTM',
 		['brand'] = 'Benefactor',
 		['model'] = 'spritzer',
@@ -896,7 +896,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `spritzer`,
 		['shop'] = 'luxury',
     },
-	['spzr250'] = {
+    ['spzr250'] = {
 		['name'] = 'ZR-250',
 		['brand'] = 'Annis',
 		['model'] = 'spzr250',
