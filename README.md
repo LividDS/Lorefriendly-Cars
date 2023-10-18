@@ -26,7 +26,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 # To-do List
 * Update handling to be a lore friendly standard.
 * Make sure soundfiles work properly when provided.
-* Update README/Adding cars to dealerships to contain all vehicles.
+* ~~Update README/Adding cars to dealerships to contain all vehicles~~.
 
 # Adding cars to dealerships
 * Add to `qb-core/shared/vehicles.lua`
