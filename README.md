@@ -545,6 +545,14 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `meteor`,
 		['shop'] = 'luxury',
     },
+	['missile'] = { 
+		['name'] = '1932 Albany JSS Hawk Missile', 
+		['brand'] = 'Albany', 
+		['model'] = 'missile', 
+		['price'] = 70600, 
+		['category'] = 'albany', 
+		['hash'] = `missile`, 
+		['shop'] = 'luxury' },
     ['morningstar'] = {
 		['name'] = 'Morningstar',
 		['brand'] = 'Schyster',
