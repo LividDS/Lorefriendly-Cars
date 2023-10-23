@@ -986,15 +986,6 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['hash'] = `terabit`,
 		['shop'] = 'truck',
     },
-    ['terabit'] = {
-		['name'] = 'Terrorbyte Blitz',
-		['brand'] = 'Benefactor',
-		['model'] = 'terabit',
-		['price'] = 1,
-		['category'] = 'truck',
-		['hash'] = `terabit`,
-		['shop'] = 'truck',
-    },
     ['tmprem'] = {
 		['name'] = 'Premier 200 SS',
 		['brand'] = 'Declasse',
