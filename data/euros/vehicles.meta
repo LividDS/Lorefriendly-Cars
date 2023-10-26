@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-	  <audioNameHash>EUROS</audioNameHash>
+	    <audioNameHash>EUROS</audioNameHash>
       <layout>LAYOUT_STD_RHD2</layout>
       <coverBoundOffsets>EUROS_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

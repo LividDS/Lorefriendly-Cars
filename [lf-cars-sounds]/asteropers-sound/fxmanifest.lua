@@ -10,4 +10,4 @@ files {
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/asteropers_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/asteropers_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_stewasteropers'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_asteropers'
