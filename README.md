@@ -299,7 +299,7 @@ A collection of high rated lore friendly vehicles from GTA5-mods. This pack feat
 		['model'] = 'elegyrh7',
 		['price'] = 196066,
 		['category'] = 'sedans',
-		['hash'] = `elegyheritage`,
+		['hash'] = `elegyrh7`,
 		['shop'] = 'pdm',
     },
     ['elegyrace'] = {
