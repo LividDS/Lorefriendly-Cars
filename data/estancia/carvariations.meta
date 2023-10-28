@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>estancia</modelName>
+      <colors>
+       <Item>
+          <indices content="char_array">
+            44 
+            37
+            9 
+            90 
+			107
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            92 
+            0
+            9 
+            0 
+			0
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            36 
+            0
+            9 
+            0 
+			107
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            88 
+            0
+            9 
+            156 
+			0
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            104 
+            0
+            104
+            156
+			107
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            127 
+            0
+            9 
+            156 
+			107
+          </indices>
+        </Item>
+		       <Item>
+          <indices content="char_array">
+            142 
+            0
+            72 
+            0 
+			0
+          </indices>
+        </Item>
+	  </colors>
+      <kits>
+        <Item>754_estancia_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
