@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>elegyrh72</modelName>
+            <colors>
+<Item>
+          <indices content="char_array">
+			44
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+<Item>
+          <indices content="char_array">
+			64
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			112
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			61
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			52
+			44
+			52
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			4
+			44
+			4
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			0
+			44
+			16
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			32
+			44
+			32
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			88
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			110
+			44
+			110
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			77
+			44
+			77
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			19
+			44
+			19
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			78
+			44
+			78
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			101
+			44
+			101
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			90
+			44
+			90
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			51
+			44
+			51
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			138
+			44
+			138
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			36
+			44
+			36
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>850_elegyrh7_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1886" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>elegyrh7</modelName>
+            <colors>
+<Item>
+          <indices content="char_array">
+			44
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+<Item>
+          <indices content="char_array">
+			64
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			112
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			61
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			52
+			44
+			52
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			4
+			44
+			4
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			0
+			44
+			16
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			32
+			44
+			32
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			88
+			44
+			21
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			110
+			44
+			110
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			77
+			44
+			77
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			19
+			44
+			19
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			78
+			44
+			78
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			101
+			44
+			101
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			90
+			44
+			90
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			51
+			44
+			51
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			138
+			44
+			138
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+			36
+			44
+			36
+			156
+			107
+			107
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>850_elegyrh7_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="250" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
