@@ -1,3 +1,7 @@
+# lds-lorevehicles out now!
+I highly recommend you download [lds-lorevehicles](https://github.com/LividDS/lds-lorevehicles) instead!
+The new pack has loads of new add-on vehicles and is properly working from release.
+
 # Lore friendly Cars
 A collection of high rated lore friendly vehicles from GTA5-mods. This pack features a mixture of add-on, replace and tuning cars. Some also feature custom sounds.
 * Only high quality models and sounds. 
